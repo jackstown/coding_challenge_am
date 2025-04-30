@@ -31,4 +31,24 @@ curl -i "http://127.0.0.1:5000/health-check"
 ```
 
 
-## What'd I'd like to improve on...
+## Endpoints
+
+### Total number of public repositories (separated by original and forked repos)
+```
+curl -i "http://127.0.0.1:5000/api/repos"
+```
+
+### Total watcher/follower count
+```
+curl -i "http://127.0.0.1:5000/api/repo/followers"
+```
+
+### List/Count of languages used across all public repos
+```
+curl -i "http://127.0.0.1:5000/api/repo/languages"
+```
+
+### List/Count of repository topics
+```
+curl -i "http://127.0.0.1:5000/api/repo/topics"
+```
