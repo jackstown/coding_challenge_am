@@ -33,22 +33,17 @@ curl -i "http://127.0.0.1:5000/health-check"
 
 ## Endpoints
 
-### Total watcher/follower count
-```
-curl -i "http://127.0.0.1:5000/api/<username>/followers"
-```
-
-### Total number of public repositories (separated by original and forked repos)
+### Get metadata from public repositories (separated by original and forked repos)
 ```
 curl -i "http://127.0.0.1:5000/api/<username>/repos"
 ```
 
-### List/Count of languages used across all public repos
+Example:
 ```
-curl -i "http://127.0.0.1:5000/api/<username>/repo/languages"
+curl -i "http://127.0.0.1:5000/api/mailchimp/repos"
 ```
 
-### List/Count of repository topics
+### Total watcher/follower count
 ```
-curl -i "http://127.0.0.1:5000/api/<username>/repo/topics"
+curl -i "http://127.0.0.1:5000/api/<username>/followers"
 ```

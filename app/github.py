@@ -1,4 +1,5 @@
 from dataclasses import dataclass
+from itertools import chain
 
 from httpx import Client
 
@@ -69,11 +70,19 @@ class GHGetRepos(BaseApi):
                 l_counts[lang] = l_counts.get(lang, 0) + 1
             return l_counts
 
+        @property
+        def topic_counts(self) -> dict:
+            topics = list(chain.from_iterable([r.topics for r in self.repos if r.topics]))
+            t_counts = dict()
+            for topic in topics:
+                t_counts[topic] = t_counts.get(topic, 0) + 1
+            return t_counts
+
     @classmethod
     def call(cls, http_client: Client, request: Request) -> Response:
         url = f'{cls.BASE_URL}/users/{request.org_name}/repos'
         results = list()
-        for i in range(cls.MAX_PAGES):
+        for i in range(cls.MAX_PAGES):  # Must paginate since api only returns 30 results max
             params = {'page': i+1}
             r = http_client.get(url=url, params=params)
             if not r.json():  # If no results, we have finished paginating

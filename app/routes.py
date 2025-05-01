@@ -33,17 +33,3 @@ def get_repos(username):
     """
     response = GetRepos.call(org_name=username).to_dict()
     return response, 200
-
-@app.route("/api/<username>/repo/languages", methods=["GET"])
-def get_repo_languages(username):
-    """
-    Endpoint to get repo languages
-    """
-    return Response(f'Repo languages for username "{username}"', status=200)
-
-@app.route("/api/<username>/repo/topics", methods=["GET"])
-def get_repo_topics(username):
-    """
-    Endpoint to get repo topics
-    """
-    return Response(f'Repo topics for username "{username}"', status=200)
