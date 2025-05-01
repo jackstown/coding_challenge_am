@@ -20,7 +20,7 @@ It is possible to get the total watchers count by iterating over all the repos v
 
 This requires further pagination, and is a fairly expensive operation.
 
-However, if needed, I can implement this using ThreadPools and making the calls asyncronous.
+However, if needed, I can implement this using ThreadPools and making the calls asynchronous.
 
 ### Synchronous API calls
 
