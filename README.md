@@ -60,11 +60,14 @@ python -m run
 
 ### Making Requests
 
+#### Git Bash
 ```
 curl -i "http://127.0.0.1:5000/health-check"
 ```
-
-
+#### Windows Powershell (Without the -i flag)
+```
+curl "http://127.0.0.1:5000/health-check"
+```
 ## Endpoints
 
 ### Get metadata from public repositories (separated by original and forked repos)
