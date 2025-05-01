@@ -4,6 +4,14 @@ A skeleton flask app to use for a coding challenge.
 
 ## Caveats
 
+### Updated Dependencies
+
+I noticed the repo is over 6 years old, with outdated dependencies that contained severe security vulnerabilities.
+
+Also, Python 3.6 is end of life, and missing key features like F-Strings and other native library functionality.
+
+I updated to use Python 3.12, and I also pinned the dependencies to versions that fix known vulnerabilities, to avoid security holes.
+
 ### Bitbucket Missing Fields
 
 Bitbucket is missing several fields in its API, namely watcher/follower and topic counts.
