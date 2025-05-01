@@ -36,6 +36,9 @@ class GHGetOrg(BaseApi):
 
     @classmethod
     def call(cls, http_client: Client, request: Request) -> Response:
+        """
+        Call to pull profile metadata from GitHub API
+        """
         url = f'{cls.BASE_URL}/users/{request.org_name}'
         r = http_client.get(url=url)
         return cls.Response(r.json())
@@ -78,8 +81,12 @@ class GHGetRepos(BaseApi):
                 t_counts[topic] = t_counts.get(topic, 0) + 1
             return t_counts
 
+
     @classmethod
     def call(cls, http_client: Client, request: Request) -> Response:
+        """
+            Call to pull repo metadata from GitHub API
+        """
         url = f'{cls.BASE_URL}/users/{request.org_name}/repos'
         results = list()
         for i in range(cls.MAX_PAGES):  # Must paginate since api only returns 30 results max
