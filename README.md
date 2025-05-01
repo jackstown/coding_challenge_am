@@ -35,13 +35,16 @@ The code doesn't contain much in the way of error handling or retries, but can b
 
 ## Install:
 
-You can use a virtual environment (conda, venv, etc):
+You can use a virtual environment (conda, venv, etc).
+
+### venv example:
+
 ```
-conda env create -f environment.yml
-source activate user-profiles
+python -m venv .venv
+.\.venv\Scripts\activate
 ```
 
-Or just pip install from the requirements file
+### Or just pip install from the requirements file
 ``` 
 pip install -r requirements.txt
 ```
