@@ -28,6 +28,10 @@ A thread pool can be used to make the calls asynchronous to make the API service
 
 The program, as is, functions well enough, but can be optimized in this way.
 
+### Error Handling
+
+The code doesn't contain much in the way of error handling or retries, but can be added in future iterations.
+
 
 ## Install:
 
