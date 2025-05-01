@@ -2,6 +2,25 @@
 
 A skeleton flask app to use for a coding challenge.
 
+## Caveats
+
+### Bitbucket Missing Fields
+
+Bitbucket is missing several fields in its API, namely watcher/follower and topic counts.
+
+It is possible to get the total watchers count by iterating over all the repos via pagination, and then hitting the watchers endpoint.
+
+This requires further pagination, and is a fairly expensive operation.
+
+However, if needed, I can implement this using ThreadPools and making the calls asyncronous.
+
+### Synchronous API calls
+
+A thread pool can be used to make the calls asynchronous to make the API service calls more performant.
+
+The program, as is, functions well enough, but can be optimized in this way.
+
+
 ## Install:
 
 You can use a virtual environment (conda, venv, etc):
