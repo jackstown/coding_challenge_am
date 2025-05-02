@@ -83,13 +83,13 @@ class GHGetRepos(BaseApi):
 
 
     @classmethod
-    def call(cls, http_client: Client, request: Request) -> Response:
+    def call(cls, http_client: Client, request: Request, max_pages: int=10) -> Response:
         """
             Call to pull repo metadata from GitHub API
         """
         url = f'{cls.BASE_URL}/users/{request.org_name}/repos'
         results = list()
-        for i in range(cls.MAX_PAGES):  # Must paginate since api only returns 30 results max
+        for i in range(max_pages):  # Must paginate since api only returns 30 results max
             params = {'page': i+1}
             r = http_client.get(url=url, params=params)
             if not r.json():  # If no results, we have finished paginating

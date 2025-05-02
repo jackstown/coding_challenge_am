@@ -169,3 +169,10 @@ curl -i "http://127.0.0.1:5000/api/mailchimp/followers"
   "org_name": "mailchimp"
 }
 ```
+## Running Unit Tests
+
+### Powershell
+
+```
+python -m unittest discover -s $pwd\tests -t $pwd\tests
+```
