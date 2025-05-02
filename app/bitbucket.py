@@ -55,7 +55,7 @@ class BBGetRepos(BaseApi):
         for i in range(cls.MAX_PAGES):  # Must paginate since api only returns 30 results max
             params = {'page': i+1}
             r = http_client.get(url=url, params=params)
-            vals = r.json()['values']
+            vals = r.json().get('values')
             if not vals:  # If no results, we have finished paginating
                 break
             results += vals
