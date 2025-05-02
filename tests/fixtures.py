@@ -4,12 +4,12 @@ from importlib.resources import as_file
 from unittest import TestCase
 
 import respx
-from httpx import codes
+from httpx import Response, codes
 
 
 class TestFixture(TestCase):
     @classmethod
-    def create_ok_route(cls, method='GET', headers=None, _json=None, text=None, **kwargs):
+    def create_200_route(cls, method='GET', headers=None, _json=None, text=None, **kwargs):
         return cls.create_route(
             method=method,
             response_status_code=codes.OK,
@@ -18,6 +18,10 @@ class TestFixture(TestCase):
             response_text=text,
             **kwargs
         )
+
+    @classmethod
+    def create_400_route(cls, **kwargs):
+        return cls.create_route(response_status_code=codes.BAD_REQUEST, **kwargs)
 
     @classmethod
     def create_route(
@@ -40,10 +44,6 @@ class TestFixture(TestCase):
                 text=response_text,
             )
         )
-
-    @classmethod
-    def create_bad_request_route(cls, **kwargs):
-        return cls.create_route(response_status_code=codes.BAD_REQUEST, **kwargs)
 
     @classmethod
     def get_resource_json(cls, *descendants: str, path: Traversable):
