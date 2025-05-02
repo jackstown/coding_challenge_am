@@ -71,9 +71,6 @@ curl "http://127.0.0.1:5000/health-check"
 ## Endpoints
 
 ### Get metadata from public repositories (separated by original and forked repos)
-```
-curl -i "http://127.0.0.1:5000/api/<username>/repos"
-```
 
 #### Example for mailchimp:
 ```
@@ -152,9 +149,6 @@ curl -i "http://127.0.0.1:5000/api/mailchimp/repos"
 ```
 
 ### Total watcher/follower count
-```
-curl -i "http://127.0.0.1:5000/api/<username>/followers"
-```
 
 #### Example for mailchimp:
 
