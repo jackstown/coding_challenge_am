@@ -24,6 +24,7 @@ def get_repo_followers(username):
     Endpoint to get followers
     """
     response = GetFollowers.call(org_name=username).to_dict()
+    app.logger.info('GetFollowers.call# successful')
     return response, 200
 
 @app.route("/api/<username>/repos", methods=["GET"])
@@ -32,4 +33,5 @@ def get_repos(username):
     Endpoint to get public repos
     """
     response = GetRepos.call(org_name=username).to_dict()
+    app.logger.info('GetRepos.call# successful')
     return response, 200
