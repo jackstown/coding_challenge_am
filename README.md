@@ -173,6 +173,21 @@ curl -i "http://127.0.0.1:5000/api/mailchimp/followers"
 
 ### Powershell
 
+Run the command from the top-level app directory.
 ```
 python -m unittest discover -s $pwd\tests -t $pwd\tests
+```
+
+Example:
+
+```
+(.venv) PS C:\Users\adria\PycharmProjects\coding_challenge_am> python -m unittest discover -s $pwd\tests -t $pwd\tests
+```
+
+```
+..
+----------------------------------------------------------------------
+Ran 2 tests in 0.589s
+
+OK
 ```
