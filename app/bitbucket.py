@@ -61,22 +61,3 @@ class BBGetRepos(BaseApi):
             results += vals
 
         return cls.Response(results)
-
-class BBGetUser(BaseApi):
-    @dataclass
-    class Request:
-        username: str
-
-    class Response:
-        def __init__(self, data: dict):
-            self.login = data['login']
-            self.followers = data['followers']
-
-    @classmethod
-    def call(cls, http_client: Client, request: Request) -> Response:
-        """
-        Call to pull profile metadata from Bitbucket API
-        """
-        url = f'{cls.BASE_URL}/users/{request.username}'
-        r = http_client.get(url=url)
-        return cls.Response(r.json())
