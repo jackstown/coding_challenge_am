@@ -5,4 +5,5 @@ httpx==0.28.1
 itsdangerous==2.2.0
 Jinja2==3.1.6
 MarkupSafe==3.0.2
+respx==0.22.0
 Werkzeug==3.1.3
