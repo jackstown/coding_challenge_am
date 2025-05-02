@@ -21,7 +21,6 @@ class Repo:
 
 class BaseApi:
     BASE_URL: str = "https://api.github.com"
-    MAX_PAGES: int = 10
 
 
 class GHGetOrg(BaseApi):

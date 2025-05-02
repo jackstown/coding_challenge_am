@@ -1,4 +1,5 @@
 import json
+import ssl
 from importlib.abc import Traversable
 from importlib.resources import as_file
 from unittest import TestCase
@@ -8,6 +9,8 @@ from httpx import Response, codes
 
 
 class TestFixture(TestCase):
+    SSL_CONTEXT = ssl.create_default_context()
+
     @classmethod
     def create_200_route(cls, method='GET', headers=None, _json=None, text=None, **kwargs):
         return cls.create_route(

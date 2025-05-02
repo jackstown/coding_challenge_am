@@ -18,7 +18,7 @@ class GithubTests(TestFixture):
             _json=self.get_resource_json('repos.json', path=self.TEST_GITHUB_RESOURCES_PATH)
         )
 
-        with httpx.Client() as client:
+        with httpx.Client(verify=self.SSL_CONTEXT) as client:
             request = GHGetRepos.Request(org_name='mailchimp')
             response = GHGetRepos.call(
                 http_client=client,
@@ -94,7 +94,7 @@ class GithubTests(TestFixture):
             _json=self.get_resource_json('users.json', path=self.TEST_GITHUB_RESOURCES_PATH)
         )
 
-        with httpx.Client() as client:
+        with httpx.Client(verify=self.SSL_CONTEXT) as client:
             request = GHGetOrg.Request(org_name='mailchimp')
             response = GHGetOrg.call(
                 http_client=client,

@@ -17,7 +17,6 @@ class Repo:
 
 class BaseApi:
     BASE_URL: str = 'https://api.bitbucket.org/2.0'
-    MAX_PAGES: int = 10
 
 class BBGetRepos(BaseApi):
     @dataclass
@@ -45,14 +44,14 @@ class BBGetRepos(BaseApi):
             return l_counts
 
     @classmethod
-    def call(cls, http_client: Client, request: Request) -> Response:
+    def call(cls, http_client: Client, request: Request, max_pages: int=10) -> Response:
         """
         Call to pull repositories metadata from Bitbucket API
         """
         url = f'{cls.BASE_URL}/repositories/{request.username}'
         results = list()
 
-        for i in range(cls.MAX_PAGES):  # Must paginate since api only returns 30 results max
+        for i in range(max_pages):  # Must paginate since api only returns 30 results max
             params = {'page': i+1}
             r = http_client.get(url=url, params=params)
             vals = r.json().get('values')

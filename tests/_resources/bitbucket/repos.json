@@ -1,1 +1,1277 @@
-{"values": [{"type": "repository", "full_name": "mailchimp/mandrill-api-php", "links": {"self": {"href": "https://api.bitbucket.org/2.0/repositories/mailchimp/mandrill-api-php"}, "html": {"href": "https://bitbucket.org/mailchimp/mandrill-api-php"}, "avatar": {"href": "https://bytebucket.org/ravatar/%7B19f1619f-eb24-4b89-ad87-3912c63b3f3d%7D?ts=php"}, "pullrequests": {"href": "https://api.bitbucket.org/2.0/repositories/mailchimp/mandrill-api-php/pullrequests"}, "commits": {"href": "https://api.bitbucket.org/2.0/repositories/mailchimp/mandrill-api-php/commits"}, "forks": {"href": "https://api.bitbucket.org/2.0/repositories/mailchimp/mandrill-api-php/forks"}, "watchers": {"href": "https://api.bitbucket.org/2.0/repositories/mailchimp/mandrill-api-php/watchers"}, "branches": {"href": "https://api.bitbucket.org/2.0/repositories/mailchimp/mandrill-api-php/refs/branches"}, "tags": {"href": "https://api.bitbucket.org/2.0/repositories/mailchimp/mandrill-api-php/refs/tags"}, "downloads": {"href": "https://api.bitbucket.org/2.0/repositories/mailchimp/mandrill-api-php/downloads"}, "source": {"href": "https://api.bitbucket.org/2.0/repositories/mailchimp/mandrill-api-php/src"}, "clone": [{"name": "https", "href": "https://bitbucket.org/mailchimp/mandrill-api-php.git"}, {"name": "ssh", "href": "git@bitbucket.org:mailchimp/mandrill-api-php.git"}], "hooks": {"href": "https://api.bitbucket.org/2.0/repositories/mailchimp/mandrill-api-php/hooks"}}, "name": "mandrill-api-php", "slug": "mandrill-api-php", "description": "DEPRECATED. You can find the current Transactional SDKs at https://mailchimp.com/developer/tools/ - A PHP 5.2+ compatible API client for the Mandrill email as a service platform.", "scm": "git", "website": "http://mandrillapp.com/api/docs/", "owner": {"display_name": "Frederick Von Chimpenheimer IV", "links": {"self": {"href": "https://api.bitbucket.org/2.0/workspaces/%7Be450f9c5-dea4-4858-ac25-9b1a205cbfba%7D"}, "avatar": {"href": "https://bitbucket.org/account/mailchimp/avatar/"}, "html": {"href": "https://bitbucket.org/%7Be450f9c5-dea4-4858-ac25-9b1a205cbfba%7D/"}}, "type": "team", "uuid": "{e450f9c5-dea4-4858-ac25-9b1a205cbfba}", "username": "mailchimp"}, "workspace": {"type": "workspace", "uuid": "{e450f9c5-dea4-4858-ac25-9b1a205cbfba}", "name": "Frederick Von Chimpenheimer IV", "slug": "mailchimp", "links": {"avatar": {"href": "https://bitbucket.org/workspaces/mailchimp/avatar/?ts=1543457511"}, "html": {"href": "https://bitbucket.org/mailchimp/"}, "self": {"href": "https://api.bitbucket.org/2.0/workspaces/mailchimp"}}}, "is_private": false, "project": {"type": "project", "key": "PROJ", "uuid": "{7e1cc7b9-e970-41f8-8a67-4bf4f79732ca}", "name": "Untitled project", "links": {"self": {"href": "https://api.bitbucket.org/2.0/workspaces/mailchimp/projects/PROJ"}, "html": {"href": "https://bitbucket.org/mailchimp/workspace/projects/PROJ"}, "avatar": {"href": "https://bitbucket.org/mailchimp/workspace/projects/PROJ/avatar/32?ts=1447442394"}}}, "fork_policy": "allow_forks", "created_on": "2012-07-18T16:24:21.740602+00:00", "updated_on": "2021-03-31T18:38:02.739104+00:00", "size": 2954204, "language": "php", "uuid": "{19f1619f-eb24-4b89-ad87-3912c63b3f3d}", "mainbranch": {"name": "master", "type": "branch"}, "override_settings": {"default_merge_strategy": false, "branching_model": false}, "parent": null, "enforced_signed_commits": null, "has_issues": false, "has_wiki": true}, {"type": "repository", "full_name": "mailchimp/mandrill-api-python", "links": {"self": {"href": "https://api.bitbucket.org/2.0/repositories/mailchimp/mandrill-api-python"}, "html": {"href": "https://bitbucket.org/mailchimp/mandrill-api-python"}, "avatar": {"href": "https://bytebucket.org/ravatar/%7B47f2ba1d-5d04-4715-82e7-8edbc08e1538%7D?ts=python"}, "pullrequests": {"href": "https://api.bitbucket.org/2.0/repositories/mailchimp/mandrill-api-python/pullrequests"}, "commits": {"href": "https://api.bitbucket.org/2.0/repositories/mailchimp/mandrill-api-python/commits"}, "forks": {"href": "https://api.bitbucket.org/2.0/repositories/mailchimp/mandrill-api-python/forks"}, "watchers": {"href": "https://api.bitbucket.org/2.0/repositories/mailchimp/mandrill-api-python/watchers"}, "branches": {"href": "https://api.bitbucket.org/2.0/repositories/mailchimp/mandrill-api-python/refs/branches"}, "tags": {"href": "https://api.bitbucket.org/2.0/repositories/mailchimp/mandrill-api-python/refs/tags"}, "downloads": {"href": "https://api.bitbucket.org/2.0/repositories/mailchimp/mandrill-api-python/downloads"}, "source": {"href": "https://api.bitbucket.org/2.0/repositories/mailchimp/mandrill-api-python/src"}, "clone": [{"name": "https", "href": "https://bitbucket.org/mailchimp/mandrill-api-python.git"}, {"name": "ssh", "href": "git@bitbucket.org:mailchimp/mandrill-api-python.git"}], "hooks": {"href": "https://api.bitbucket.org/2.0/repositories/mailchimp/mandrill-api-python/hooks"}}, "name": "mandrill-api-python", "slug": "mandrill-api-python", "description": "DEPRECATED. You can find the current Transactional SDKs at https://mailchimp.com/developer/tools/ - A Python 2.5+ compatible API client and CLI interface for the Mandrill email as a service product.", "scm": "git", "website": "http://mandrillapp.com/api/docs/", "owner": {"display_name": "Frederick Von Chimpenheimer IV", "links": {"self": {"href": "https://api.bitbucket.org/2.0/workspaces/%7Be450f9c5-dea4-4858-ac25-9b1a205cbfba%7D"}, "avatar": {"href": "https://bitbucket.org/account/mailchimp/avatar/"}, "html": {"href": "https://bitbucket.org/%7Be450f9c5-dea4-4858-ac25-9b1a205cbfba%7D/"}}, "type": "team", "uuid": "{e450f9c5-dea4-4858-ac25-9b1a205cbfba}", "username": "mailchimp"}, "workspace": {"type": "workspace", "uuid": "{e450f9c5-dea4-4858-ac25-9b1a205cbfba}", "name": "Frederick Von Chimpenheimer IV", "slug": "mailchimp", "links": {"avatar": {"href": "https://bitbucket.org/workspaces/mailchimp/avatar/?ts=1543457511"}, "html": {"href": "https://bitbucket.org/mailchimp/"}, "self": {"href": "https://api.bitbucket.org/2.0/workspaces/mailchimp"}}}, "is_private": false, "project": {"type": "project", "key": "PROJ", "uuid": "{7e1cc7b9-e970-41f8-8a67-4bf4f79732ca}", "name": "Untitled project", "links": {"self": {"href": "https://api.bitbucket.org/2.0/workspaces/mailchimp/projects/PROJ"}, "html": {"href": "https://bitbucket.org/mailchimp/workspace/projects/PROJ"}, "avatar": {"href": "https://bitbucket.org/mailchimp/workspace/projects/PROJ/avatar/32?ts=1447442394"}}}, "fork_policy": "allow_forks", "created_on": "2012-07-18T16:25:04.014768+00:00", "updated_on": "2021-04-01T15:36:35.234027+00:00", "size": 2359734, "language": "python", "uuid": "{47f2ba1d-5d04-4715-82e7-8edbc08e1538}", "mainbranch": {"name": "master", "type": "branch"}, "override_settings": {"default_merge_strategy": false, "branching_model": false}, "parent": null, "enforced_signed_commits": null, "has_issues": false, "has_wiki": true}, {"type": "repository", "full_name": "mailchimp/mandrill-api-js", "links": {"self": {"href": "https://api.bitbucket.org/2.0/repositories/mailchimp/mandrill-api-js"}, "html": {"href": "https://bitbucket.org/mailchimp/mandrill-api-js"}, "avatar": {"href": "https://bytebucket.org/ravatar/%7B06d16caa-4570-4f04-a54f-908c9c814197%7D?ts=js"}, "pullrequests": {"href": "https://api.bitbucket.org/2.0/repositories/mailchimp/mandrill-api-js/pullrequests"}, "commits": {"href": "https://api.bitbucket.org/2.0/repositories/mailchimp/mandrill-api-js/commits"}, "forks": {"href": "https://api.bitbucket.org/2.0/repositories/mailchimp/mandrill-api-js/forks"}, "watchers": {"href": "https://api.bitbucket.org/2.0/repositories/mailchimp/mandrill-api-js/watchers"}, "branches": {"href": "https://api.bitbucket.org/2.0/repositories/mailchimp/mandrill-api-js/refs/branches"}, "tags": {"href": "https://api.bitbucket.org/2.0/repositories/mailchimp/mandrill-api-js/refs/tags"}, "downloads": {"href": "https://api.bitbucket.org/2.0/repositories/mailchimp/mandrill-api-js/downloads"}, "source": {"href": "https://api.bitbucket.org/2.0/repositories/mailchimp/mandrill-api-js/src"}, "clone": [{"name": "https", "href": "https://bitbucket.org/mailchimp/mandrill-api-js.git"}, {"name": "ssh", "href": "git@bitbucket.org:mailchimp/mandrill-api-js.git"}], "hooks": {"href": "https://api.bitbucket.org/2.0/repositories/mailchimp/mandrill-api-js/hooks"}}, "name": "mandrill-api-js", "slug": "mandrill-api-js", "description": "DEPRECATED. You can find the current Transactional SDKs at https://mailchimp.com/developer/tools/ - An in-browser Ajax-based javascript client for the Mandrill email as a service product.", "scm": "git", "website": "http://mandrillapp.com/api/docs/", "owner": {"display_name": "Frederick Von Chimpenheimer IV", "links": {"self": {"href": "https://api.bitbucket.org/2.0/workspaces/%7Be450f9c5-dea4-4858-ac25-9b1a205cbfba%7D"}, "avatar": {"href": "https://bitbucket.org/account/mailchimp/avatar/"}, "html": {"href": "https://bitbucket.org/%7Be450f9c5-dea4-4858-ac25-9b1a205cbfba%7D/"}}, "type": "team", "uuid": "{e450f9c5-dea4-4858-ac25-9b1a205cbfba}", "username": "mailchimp"}, "workspace": {"type": "workspace", "uuid": "{e450f9c5-dea4-4858-ac25-9b1a205cbfba}", "name": "Frederick Von Chimpenheimer IV", "slug": "mailchimp", "links": {"avatar": {"href": "https://bitbucket.org/workspaces/mailchimp/avatar/?ts=1543457511"}, "html": {"href": "https://bitbucket.org/mailchimp/"}, "self": {"href": "https://api.bitbucket.org/2.0/workspaces/mailchimp"}}}, "is_private": false, "project": {"type": "project", "key": "PROJ", "uuid": "{7e1cc7b9-e970-41f8-8a67-4bf4f79732ca}", "name": "Untitled project", "links": {"self": {"href": "https://api.bitbucket.org/2.0/workspaces/mailchimp/projects/PROJ"}, "html": {"href": "https://bitbucket.org/mailchimp/workspace/projects/PROJ"}, "avatar": {"href": "https://bitbucket.org/mailchimp/workspace/projects/PROJ/avatar/32?ts=1447442394"}}}, "fork_policy": "allow_forks", "created_on": "2012-07-18T16:25:39.296756+00:00", "updated_on": "2021-03-31T18:23:16.302675+00:00", "size": 1773199, "language": "javascript", "uuid": "{06d16caa-4570-4f04-a54f-908c9c814197}", "mainbranch": {"name": "master", "type": "branch"}, "override_settings": {"default_merge_strategy": false, "branching_model": false}, "parent": null, "enforced_signed_commits": null, "has_issues": false, "has_wiki": true}, {"type": "repository", "full_name": "mailchimp/mandrill-api-ruby", "links": {"self": {"href": "https://api.bitbucket.org/2.0/repositories/mailchimp/mandrill-api-ruby"}, "html": {"href": "https://bitbucket.org/mailchimp/mandrill-api-ruby"}, "avatar": {"href": "https://bytebucket.org/ravatar/%7B6e0aec30-10ef-449d-afa6-668fb6ee3af6%7D?ts=ruby"}, "pullrequests": {"href": "https://api.bitbucket.org/2.0/repositories/mailchimp/mandrill-api-ruby/pullrequests"}, "commits": {"href": "https://api.bitbucket.org/2.0/repositories/mailchimp/mandrill-api-ruby/commits"}, "forks": {"href": "https://api.bitbucket.org/2.0/repositories/mailchimp/mandrill-api-ruby/forks"}, "watchers": {"href": "https://api.bitbucket.org/2.0/repositories/mailchimp/mandrill-api-ruby/watchers"}, "branches": {"href": "https://api.bitbucket.org/2.0/repositories/mailchimp/mandrill-api-ruby/refs/branches"}, "tags": {"href": "https://api.bitbucket.org/2.0/repositories/mailchimp/mandrill-api-ruby/refs/tags"}, "downloads": {"href": "https://api.bitbucket.org/2.0/repositories/mailchimp/mandrill-api-ruby/downloads"}, "source": {"href": "https://api.bitbucket.org/2.0/repositories/mailchimp/mandrill-api-ruby/src"}, "clone": [{"name": "https", "href": "https://bitbucket.org/mailchimp/mandrill-api-ruby.git"}, {"name": "ssh", "href": "git@bitbucket.org:mailchimp/mandrill-api-ruby.git"}], "hooks": {"href": "https://api.bitbucket.org/2.0/repositories/mailchimp/mandrill-api-ruby/hooks"}}, "name": "mandrill-api-ruby", "slug": "mandrill-api-ruby", "description": "DEPRECATED. You can find the current Transactional SDKs at https://mailchimp.com/developer/tools/ - A Ruby API client for the Mandrill email as a service product", "scm": "git", "website": "https://mandrillapp.com/api/docs/", "owner": {"display_name": "Frederick Von Chimpenheimer IV", "links": {"self": {"href": "https://api.bitbucket.org/2.0/workspaces/%7Be450f9c5-dea4-4858-ac25-9b1a205cbfba%7D"}, "avatar": {"href": "https://bitbucket.org/account/mailchimp/avatar/"}, "html": {"href": "https://bitbucket.org/%7Be450f9c5-dea4-4858-ac25-9b1a205cbfba%7D/"}}, "type": "team", "uuid": "{e450f9c5-dea4-4858-ac25-9b1a205cbfba}", "username": "mailchimp"}, "workspace": {"type": "workspace", "uuid": "{e450f9c5-dea4-4858-ac25-9b1a205cbfba}", "name": "Frederick Von Chimpenheimer IV", "slug": "mailchimp", "links": {"avatar": {"href": "https://bitbucket.org/workspaces/mailchimp/avatar/?ts=1543457511"}, "html": {"href": "https://bitbucket.org/mailchimp/"}, "self": {"href": "https://api.bitbucket.org/2.0/workspaces/mailchimp"}}}, "is_private": false, "project": {"type": "project", "key": "PROJ", "uuid": "{7e1cc7b9-e970-41f8-8a67-4bf4f79732ca}", "name": "Untitled project", "links": {"self": {"href": "https://api.bitbucket.org/2.0/workspaces/mailchimp/projects/PROJ"}, "html": {"href": "https://bitbucket.org/mailchimp/workspace/projects/PROJ"}, "avatar": {"href": "https://bitbucket.org/mailchimp/workspace/projects/PROJ/avatar/32?ts=1447442394"}}}, "fork_policy": "allow_forks", "created_on": "2012-07-30T17:29:29.827938+00:00", "updated_on": "2022-09-02T09:43:17.952123+00:00", "size": 1896029, "language": "ruby", "uuid": "{6e0aec30-10ef-449d-afa6-668fb6ee3af6}", "mainbranch": {"name": "master", "type": "branch"}, "override_settings": {"default_merge_strategy": false, "branching_model": false}, "parent": null, "enforced_signed_commits": null, "has_issues": false, "has_wiki": true}, {"type": "repository", "full_name": "mailchimp/mandrill-api-node", "links": {"self": {"href": "https://api.bitbucket.org/2.0/repositories/mailchimp/mandrill-api-node"}, "html": {"href": "https://bitbucket.org/mailchimp/mandrill-api-node"}, "avatar": {"href": "https://bytebucket.org/ravatar/%7Bce74c34d-e4f3-4d7e-834e-a4efa499daf7%7D?ts=js"}, "pullrequests": {"href": "https://api.bitbucket.org/2.0/repositories/mailchimp/mandrill-api-node/pullrequests"}, "commits": {"href": "https://api.bitbucket.org/2.0/repositories/mailchimp/mandrill-api-node/commits"}, "forks": {"href": "https://api.bitbucket.org/2.0/repositories/mailchimp/mandrill-api-node/forks"}, "watchers": {"href": "https://api.bitbucket.org/2.0/repositories/mailchimp/mandrill-api-node/watchers"}, "branches": {"href": "https://api.bitbucket.org/2.0/repositories/mailchimp/mandrill-api-node/refs/branches"}, "tags": {"href": "https://api.bitbucket.org/2.0/repositories/mailchimp/mandrill-api-node/refs/tags"}, "downloads": {"href": "https://api.bitbucket.org/2.0/repositories/mailchimp/mandrill-api-node/downloads"}, "source": {"href": "https://api.bitbucket.org/2.0/repositories/mailchimp/mandrill-api-node/src"}, "clone": [{"name": "https", "href": "https://bitbucket.org/mailchimp/mandrill-api-node.git"}, {"name": "ssh", "href": "git@bitbucket.org:mailchimp/mandrill-api-node.git"}], "hooks": {"href": "https://api.bitbucket.org/2.0/repositories/mailchimp/mandrill-api-node/hooks"}}, "name": "mandrill-api-node", "slug": "mandrill-api-node", "description": "DEPRECATED. You can find the current Transactional SDKs at https://mailchimp.com/developer/tools/ - A NodeJS API client for the Mandrill email as a service platform", "scm": "git", "website": "https://mandrillapp.com/api/docs/index.nodejs.html", "owner": {"display_name": "Frederick Von Chimpenheimer IV", "links": {"self": {"href": "https://api.bitbucket.org/2.0/workspaces/%7Be450f9c5-dea4-4858-ac25-9b1a205cbfba%7D"}, "avatar": {"href": "https://bitbucket.org/account/mailchimp/avatar/"}, "html": {"href": "https://bitbucket.org/%7Be450f9c5-dea4-4858-ac25-9b1a205cbfba%7D/"}}, "type": "team", "uuid": "{e450f9c5-dea4-4858-ac25-9b1a205cbfba}", "username": "mailchimp"}, "workspace": {"type": "workspace", "uuid": "{e450f9c5-dea4-4858-ac25-9b1a205cbfba}", "name": "Frederick Von Chimpenheimer IV", "slug": "mailchimp", "links": {"avatar": {"href": "https://bitbucket.org/workspaces/mailchimp/avatar/?ts=1543457511"}, "html": {"href": "https://bitbucket.org/mailchimp/"}, "self": {"href": "https://api.bitbucket.org/2.0/workspaces/mailchimp"}}}, "is_private": false, "project": {"type": "project", "key": "PROJ", "uuid": "{7e1cc7b9-e970-41f8-8a67-4bf4f79732ca}", "name": "Untitled project", "links": {"self": {"href": "https://api.bitbucket.org/2.0/workspaces/mailchimp/projects/PROJ"}, "html": {"href": "https://bitbucket.org/mailchimp/workspace/projects/PROJ"}, "avatar": {"href": "https://bitbucket.org/mailchimp/workspace/projects/PROJ/avatar/32?ts=1447442394"}}}, "fork_policy": "allow_forks", "created_on": "2015-09-23T02:26:01.342846+00:00", "updated_on": "2021-03-31T18:22:39.318909+00:00", "size": 1871529, "language": "javascript", "uuid": "{ce74c34d-e4f3-4d7e-834e-a4efa499daf7}", "mainbranch": {"name": "master", "type": "branch"}, "override_settings": {"default_merge_strategy": false, "branching_model": false}, "parent": null, "enforced_signed_commits": null, "has_issues": false, "has_wiki": true}, {"type": "repository", "full_name": "mailchimp/mailchimp-api-node", "links": {"self": {"href": "https://api.bitbucket.org/2.0/repositories/mailchimp/mailchimp-api-node"}, "html": {"href": "https://bitbucket.org/mailchimp/mailchimp-api-node"}, "avatar": {"href": "https://bytebucket.org/ravatar/%7B1b4d144d-ced9-4c9b-9c5c-4c90baee3c5a%7D?ts=js"}, "pullrequests": {"href": "https://api.bitbucket.org/2.0/repositories/mailchimp/mailchimp-api-node/pullrequests"}, "commits": {"href": "https://api.bitbucket.org/2.0/repositories/mailchimp/mailchimp-api-node/commits"}, "forks": {"href": "https://api.bitbucket.org/2.0/repositories/mailchimp/mailchimp-api-node/forks"}, "watchers": {"href": "https://api.bitbucket.org/2.0/repositories/mailchimp/mailchimp-api-node/watchers"}, "branches": {"href": "https://api.bitbucket.org/2.0/repositories/mailchimp/mailchimp-api-node/refs/branches"}, "tags": {"href": "https://api.bitbucket.org/2.0/repositories/mailchimp/mailchimp-api-node/refs/tags"}, "downloads": {"href": "https://api.bitbucket.org/2.0/repositories/mailchimp/mailchimp-api-node/downloads"}, "source": {"href": "https://api.bitbucket.org/2.0/repositories/mailchimp/mailchimp-api-node/src"}, "clone": [{"name": "https", "href": "https://bitbucket.org/mailchimp/mailchimp-api-node.git"}, {"name": "ssh", "href": "git@bitbucket.org:mailchimp/mailchimp-api-node.git"}], "hooks": {"href": "https://api.bitbucket.org/2.0/repositories/mailchimp/mailchimp-api-node/hooks"}}, "name": "mailchimp-api-node", "slug": "mailchimp-api-node", "description": "DEPRECATED. You can find the current Marketing SDKs at https://mailchimp.com/developer/tools/ - A NodeJS API client for API v2 of MailChimp's email service", "scm": "git", "website": "http://apidocs.mailchimp.com/api/2.0/", "owner": {"display_name": "Frederick Von Chimpenheimer IV", "links": {"self": {"href": "https://api.bitbucket.org/2.0/workspaces/%7Be450f9c5-dea4-4858-ac25-9b1a205cbfba%7D"}, "avatar": {"href": "https://bitbucket.org/account/mailchimp/avatar/"}, "html": {"href": "https://bitbucket.org/%7Be450f9c5-dea4-4858-ac25-9b1a205cbfba%7D/"}}, "type": "team", "uuid": "{e450f9c5-dea4-4858-ac25-9b1a205cbfba}", "username": "mailchimp"}, "workspace": {"type": "workspace", "uuid": "{e450f9c5-dea4-4858-ac25-9b1a205cbfba}", "name": "Frederick Von Chimpenheimer IV", "slug": "mailchimp", "links": {"avatar": {"href": "https://bitbucket.org/workspaces/mailchimp/avatar/?ts=1543457511"}, "html": {"href": "https://bitbucket.org/mailchimp/"}, "self": {"href": "https://api.bitbucket.org/2.0/workspaces/mailchimp"}}}, "is_private": false, "project": {"type": "project", "key": "PROJ", "uuid": "{7e1cc7b9-e970-41f8-8a67-4bf4f79732ca}", "name": "Untitled project", "links": {"self": {"href": "https://api.bitbucket.org/2.0/workspaces/mailchimp/projects/PROJ"}, "html": {"href": "https://bitbucket.org/mailchimp/workspace/projects/PROJ"}, "avatar": {"href": "https://bitbucket.org/mailchimp/workspace/projects/PROJ/avatar/32?ts=1447442394"}}}, "fork_policy": "allow_forks", "created_on": "2013-07-23T15:44:51.187004+00:00", "updated_on": "2021-03-31T18:22:10.079276+00:00", "size": 680592, "language": "javascript", "uuid": "{1b4d144d-ced9-4c9b-9c5c-4c90baee3c5a}", "mainbranch": {"name": "master", "type": "branch"}, "override_settings": {"default_merge_strategy": false, "branching_model": false}, "parent": null, "enforced_signed_commits": null, "has_issues": false, "has_wiki": false}, {"type": "repository", "full_name": "mailchimp/mailchimp-api-php", "links": {"self": {"href": "https://api.bitbucket.org/2.0/repositories/mailchimp/mailchimp-api-php"}, "html": {"href": "https://bitbucket.org/mailchimp/mailchimp-api-php"}, "avatar": {"href": "https://bytebucket.org/ravatar/%7Bcd65384e-3854-4261-8db4-21adae2a3343%7D?ts=php"}, "pullrequests": {"href": "https://api.bitbucket.org/2.0/repositories/mailchimp/mailchimp-api-php/pullrequests"}, "commits": {"href": "https://api.bitbucket.org/2.0/repositories/mailchimp/mailchimp-api-php/commits"}, "forks": {"href": "https://api.bitbucket.org/2.0/repositories/mailchimp/mailchimp-api-php/forks"}, "watchers": {"href": "https://api.bitbucket.org/2.0/repositories/mailchimp/mailchimp-api-php/watchers"}, "branches": {"href": "https://api.bitbucket.org/2.0/repositories/mailchimp/mailchimp-api-php/refs/branches"}, "tags": {"href": "https://api.bitbucket.org/2.0/repositories/mailchimp/mailchimp-api-php/refs/tags"}, "downloads": {"href": "https://api.bitbucket.org/2.0/repositories/mailchimp/mailchimp-api-php/downloads"}, "source": {"href": "https://api.bitbucket.org/2.0/repositories/mailchimp/mailchimp-api-php/src"}, "clone": [{"name": "https", "href": "https://bitbucket.org/mailchimp/mailchimp-api-php.git"}, {"name": "ssh", "href": "git@bitbucket.org:mailchimp/mailchimp-api-php.git"}], "hooks": {"href": "https://api.bitbucket.org/2.0/repositories/mailchimp/mailchimp-api-php/hooks"}}, "name": "mailchimp-api-php", "slug": "mailchimp-api-php", "description": "DEPRECATED. You can find the current Marketing SDKs at https://mailchimp.com/developer/tools/ - A PHP 5.2+ compatible API client for the MailChimp email platform", "scm": "git", "website": "http://apidocs.mailchimp.com/api/2.0/", "owner": {"display_name": "Frederick Von Chimpenheimer IV", "links": {"self": {"href": "https://api.bitbucket.org/2.0/workspaces/%7Be450f9c5-dea4-4858-ac25-9b1a205cbfba%7D"}, "avatar": {"href": "https://bitbucket.org/account/mailchimp/avatar/"}, "html": {"href": "https://bitbucket.org/%7Be450f9c5-dea4-4858-ac25-9b1a205cbfba%7D/"}}, "type": "team", "uuid": "{e450f9c5-dea4-4858-ac25-9b1a205cbfba}", "username": "mailchimp"}, "workspace": {"type": "workspace", "uuid": "{e450f9c5-dea4-4858-ac25-9b1a205cbfba}", "name": "Frederick Von Chimpenheimer IV", "slug": "mailchimp", "links": {"avatar": {"href": "https://bitbucket.org/workspaces/mailchimp/avatar/?ts=1543457511"}, "html": {"href": "https://bitbucket.org/mailchimp/"}, "self": {"href": "https://api.bitbucket.org/2.0/workspaces/mailchimp"}}}, "is_private": false, "project": {"type": "project", "key": "PROJ", "uuid": "{7e1cc7b9-e970-41f8-8a67-4bf4f79732ca}", "name": "Untitled project", "links": {"self": {"href": "https://api.bitbucket.org/2.0/workspaces/mailchimp/projects/PROJ"}, "html": {"href": "https://bitbucket.org/mailchimp/workspace/projects/PROJ"}, "avatar": {"href": "https://bitbucket.org/mailchimp/workspace/projects/PROJ/avatar/32?ts=1447442394"}}}, "fork_policy": "allow_forks", "created_on": "2013-07-23T15:45:30.570868+00:00", "updated_on": "2021-03-31T18:33:47.724519+00:00", "size": 1982610, "language": "php", "uuid": "{cd65384e-3854-4261-8db4-21adae2a3343}", "mainbranch": {"name": "master", "type": "branch"}, "override_settings": {"default_merge_strategy": false, "branching_model": false}, "parent": null, "enforced_signed_commits": null, "has_issues": false, "has_wiki": false}, {"type": "repository", "full_name": "mailchimp/mailchimp-api-python", "links": {"self": {"href": "https://api.bitbucket.org/2.0/repositories/mailchimp/mailchimp-api-python"}, "html": {"href": "https://bitbucket.org/mailchimp/mailchimp-api-python"}, "avatar": {"href": "https://bytebucket.org/ravatar/%7B163752e5-ecf4-4473-a64d-43df2eab37ca%7D?ts=python"}, "pullrequests": {"href": "https://api.bitbucket.org/2.0/repositories/mailchimp/mailchimp-api-python/pullrequests"}, "commits": {"href": "https://api.bitbucket.org/2.0/repositories/mailchimp/mailchimp-api-python/commits"}, "forks": {"href": "https://api.bitbucket.org/2.0/repositories/mailchimp/mailchimp-api-python/forks"}, "watchers": {"href": "https://api.bitbucket.org/2.0/repositories/mailchimp/mailchimp-api-python/watchers"}, "branches": {"href": "https://api.bitbucket.org/2.0/repositories/mailchimp/mailchimp-api-python/refs/branches"}, "tags": {"href": "https://api.bitbucket.org/2.0/repositories/mailchimp/mailchimp-api-python/refs/tags"}, "downloads": {"href": "https://api.bitbucket.org/2.0/repositories/mailchimp/mailchimp-api-python/downloads"}, "source": {"href": "https://api.bitbucket.org/2.0/repositories/mailchimp/mailchimp-api-python/src"}, "clone": [{"name": "https", "href": "https://bitbucket.org/mailchimp/mailchimp-api-python.git"}, {"name": "ssh", "href": "git@bitbucket.org:mailchimp/mailchimp-api-python.git"}], "hooks": {"href": "https://api.bitbucket.org/2.0/repositories/mailchimp/mailchimp-api-python/hooks"}}, "name": "mailchimp-api-python", "slug": "mailchimp-api-python", "description": "DEPRECATED. You can find the current Marketing SDKs at https://mailchimp.com/developer/tools/ - A Python 2.5+ compatible API client for API v2 for MailChimp's email service", "scm": "git", "website": "http://apidocs.mailchimp.com/api/2.0/", "owner": {"display_name": "Frederick Von Chimpenheimer IV", "links": {"self": {"href": "https://api.bitbucket.org/2.0/workspaces/%7Be450f9c5-dea4-4858-ac25-9b1a205cbfba%7D"}, "avatar": {"href": "https://bitbucket.org/account/mailchimp/avatar/"}, "html": {"href": "https://bitbucket.org/%7Be450f9c5-dea4-4858-ac25-9b1a205cbfba%7D/"}}, "type": "team", "uuid": "{e450f9c5-dea4-4858-ac25-9b1a205cbfba}", "username": "mailchimp"}, "workspace": {"type": "workspace", "uuid": "{e450f9c5-dea4-4858-ac25-9b1a205cbfba}", "name": "Frederick Von Chimpenheimer IV", "slug": "mailchimp", "links": {"avatar": {"href": "https://bitbucket.org/workspaces/mailchimp/avatar/?ts=1543457511"}, "html": {"href": "https://bitbucket.org/mailchimp/"}, "self": {"href": "https://api.bitbucket.org/2.0/workspaces/mailchimp"}}}, "is_private": false, "project": {"type": "project", "key": "PROJ", "uuid": "{7e1cc7b9-e970-41f8-8a67-4bf4f79732ca}", "name": "Untitled project", "links": {"self": {"href": "https://api.bitbucket.org/2.0/workspaces/mailchimp/projects/PROJ"}, "html": {"href": "https://bitbucket.org/mailchimp/workspace/projects/PROJ"}, "avatar": {"href": "https://bitbucket.org/mailchimp/workspace/projects/PROJ/avatar/32?ts=1447442394"}}}, "fork_policy": "allow_forks", "created_on": "2013-07-23T15:45:45.575341+00:00", "updated_on": "2021-04-01T15:26:18.259927+00:00", "size": 1079551, "language": "python", "uuid": "{163752e5-ecf4-4473-a64d-43df2eab37ca}", "mainbranch": {"name": "master", "type": "branch"}, "override_settings": {"default_merge_strategy": false, "branching_model": false}, "parent": null, "enforced_signed_commits": null, "has_issues": false, "has_wiki": false}, {"type": "repository", "full_name": "mailchimp/mailchimp-api-ruby", "links": {"self": {"href": "https://api.bitbucket.org/2.0/repositories/mailchimp/mailchimp-api-ruby"}, "html": {"href": "https://bitbucket.org/mailchimp/mailchimp-api-ruby"}, "avatar": {"href": "https://bytebucket.org/ravatar/%7B0ed26f9e-0589-425a-8357-18d059a73db1%7D?ts=ruby"}, "pullrequests": {"href": "https://api.bitbucket.org/2.0/repositories/mailchimp/mailchimp-api-ruby/pullrequests"}, "commits": {"href": "https://api.bitbucket.org/2.0/repositories/mailchimp/mailchimp-api-ruby/commits"}, "forks": {"href": "https://api.bitbucket.org/2.0/repositories/mailchimp/mailchimp-api-ruby/forks"}, "watchers": {"href": "https://api.bitbucket.org/2.0/repositories/mailchimp/mailchimp-api-ruby/watchers"}, "branches": {"href": "https://api.bitbucket.org/2.0/repositories/mailchimp/mailchimp-api-ruby/refs/branches"}, "tags": {"href": "https://api.bitbucket.org/2.0/repositories/mailchimp/mailchimp-api-ruby/refs/tags"}, "downloads": {"href": "https://api.bitbucket.org/2.0/repositories/mailchimp/mailchimp-api-ruby/downloads"}, "source": {"href": "https://api.bitbucket.org/2.0/repositories/mailchimp/mailchimp-api-ruby/src"}, "clone": [{"name": "https", "href": "https://bitbucket.org/mailchimp/mailchimp-api-ruby.git"}, {"name": "ssh", "href": "git@bitbucket.org:mailchimp/mailchimp-api-ruby.git"}], "hooks": {"href": "https://api.bitbucket.org/2.0/repositories/mailchimp/mailchimp-api-ruby/hooks"}}, "name": "mailchimp-api-ruby", "slug": "mailchimp-api-ruby", "description": "DEPRECATED. You can find the current Marketing SDKs at https://mailchimp.com/developer/tools/ - A Ruby API client for API v2 of MailChimp's email service", "scm": "git", "website": "http://apidocs.mailchimp.com/api/2.0/", "owner": {"display_name": "Frederick Von Chimpenheimer IV", "links": {"self": {"href": "https://api.bitbucket.org/2.0/workspaces/%7Be450f9c5-dea4-4858-ac25-9b1a205cbfba%7D"}, "avatar": {"href": "https://bitbucket.org/account/mailchimp/avatar/"}, "html": {"href": "https://bitbucket.org/%7Be450f9c5-dea4-4858-ac25-9b1a205cbfba%7D/"}}, "type": "team", "uuid": "{e450f9c5-dea4-4858-ac25-9b1a205cbfba}", "username": "mailchimp"}, "workspace": {"type": "workspace", "uuid": "{e450f9c5-dea4-4858-ac25-9b1a205cbfba}", "name": "Frederick Von Chimpenheimer IV", "slug": "mailchimp", "links": {"avatar": {"href": "https://bitbucket.org/workspaces/mailchimp/avatar/?ts=1543457511"}, "html": {"href": "https://bitbucket.org/mailchimp/"}, "self": {"href": "https://api.bitbucket.org/2.0/workspaces/mailchimp"}}}, "is_private": false, "project": {"type": "project", "key": "PROJ", "uuid": "{7e1cc7b9-e970-41f8-8a67-4bf4f79732ca}", "name": "Untitled project", "links": {"self": {"href": "https://api.bitbucket.org/2.0/workspaces/mailchimp/projects/PROJ"}, "html": {"href": "https://bitbucket.org/mailchimp/workspace/projects/PROJ"}, "avatar": {"href": "https://bitbucket.org/mailchimp/workspace/projects/PROJ/avatar/32?ts=1447442394"}}}, "fork_policy": "allow_forks", "created_on": "2013-07-23T15:46:05.875041+00:00", "updated_on": "2021-04-01T15:11:43.044013+00:00", "size": 809299, "language": "ruby", "uuid": "{0ed26f9e-0589-425a-8357-18d059a73db1}", "mainbranch": {"name": "master", "type": "branch"}, "override_settings": {"default_merge_strategy": false, "branching_model": false}, "parent": null, "enforced_signed_commits": null, "has_issues": false, "has_wiki": false}, {"type": "repository", "full_name": "mailchimp/mandrill-api-dart", "links": {"self": {"href": "https://api.bitbucket.org/2.0/repositories/mailchimp/mandrill-api-dart"}, "html": {"href": "https://bitbucket.org/mailchimp/mandrill-api-dart"}, "avatar": {"href": "https://bytebucket.org/ravatar/%7Bea153489-cc03-4adf-ae24-307431af79ea%7D?ts=dart"}, "pullrequests": {"href": "https://api.bitbucket.org/2.0/repositories/mailchimp/mandrill-api-dart/pullrequests"}, "commits": {"href": "https://api.bitbucket.org/2.0/repositories/mailchimp/mandrill-api-dart/commits"}, "forks": {"href": "https://api.bitbucket.org/2.0/repositories/mailchimp/mandrill-api-dart/forks"}, "watchers": {"href": "https://api.bitbucket.org/2.0/repositories/mailchimp/mandrill-api-dart/watchers"}, "branches": {"href": "https://api.bitbucket.org/2.0/repositories/mailchimp/mandrill-api-dart/refs/branches"}, "tags": {"href": "https://api.bitbucket.org/2.0/repositories/mailchimp/mandrill-api-dart/refs/tags"}, "downloads": {"href": "https://api.bitbucket.org/2.0/repositories/mailchimp/mandrill-api-dart/downloads"}, "source": {"href": "https://api.bitbucket.org/2.0/repositories/mailchimp/mandrill-api-dart/src"}, "clone": [{"name": "https", "href": "https://bitbucket.org/mailchimp/mandrill-api-dart.git"}, {"name": "ssh", "href": "git@bitbucket.org:mailchimp/mandrill-api-dart.git"}], "hooks": {"href": "https://api.bitbucket.org/2.0/repositories/mailchimp/mandrill-api-dart/hooks"}}, "name": "mandrill-api-dart", "slug": "mandrill-api-dart", "description": "DEPRECATED. You can find the current Transactional SDKs at https://mailchimp.com/developer/tools/ - A server and browser-compatible API client for the Mandrill email as a service platform.", "scm": "git", "website": "https://mandrillapp.com/api/docs/index.dart.html", "owner": {"display_name": "Frederick Von Chimpenheimer IV", "links": {"self": {"href": "https://api.bitbucket.org/2.0/workspaces/%7Be450f9c5-dea4-4858-ac25-9b1a205cbfba%7D"}, "avatar": {"href": "https://bitbucket.org/account/mailchimp/avatar/"}, "html": {"href": "https://bitbucket.org/%7Be450f9c5-dea4-4858-ac25-9b1a205cbfba%7D/"}}, "type": "team", "uuid": "{e450f9c5-dea4-4858-ac25-9b1a205cbfba}", "username": "mailchimp"}, "workspace": {"type": "workspace", "uuid": "{e450f9c5-dea4-4858-ac25-9b1a205cbfba}", "name": "Frederick Von Chimpenheimer IV", "slug": "mailchimp", "links": {"avatar": {"href": "https://bitbucket.org/workspaces/mailchimp/avatar/?ts=1543457511"}, "html": {"href": "https://bitbucket.org/mailchimp/"}, "self": {"href": "https://api.bitbucket.org/2.0/workspaces/mailchimp"}}}, "is_private": false, "project": {"type": "project", "key": "PROJ", "uuid": "{7e1cc7b9-e970-41f8-8a67-4bf4f79732ca}", "name": "Untitled project", "links": {"self": {"href": "https://api.bitbucket.org/2.0/workspaces/mailchimp/projects/PROJ"}, "html": {"href": "https://bitbucket.org/mailchimp/workspace/projects/PROJ"}, "avatar": {"href": "https://bitbucket.org/mailchimp/workspace/projects/PROJ/avatar/32?ts=1447442394"}}}, "fork_policy": "allow_forks", "created_on": "2013-11-19T20:26:48.397334+00:00", "updated_on": "2021-03-31T18:22:54.267510+00:00", "size": 356522, "language": "dart", "uuid": "{ea153489-cc03-4adf-ae24-307431af79ea}", "mainbranch": {"name": "master", "type": "branch"}, "override_settings": {"default_merge_strategy": false, "branching_model": false}, "parent": null, "enforced_signed_commits": null, "has_issues": false, "has_wiki": false}], "pagelen": 10, "size": 10, "page": 1}
+{
+  "values": [
+    {
+      "type": "repository",
+      "full_name": "mailchimp/mandrill-api-php",
+      "links": {
+        "self": {
+          "href": "https://api.bitbucket.org/2.0/repositories/mailchimp/mandrill-api-php"
+        },
+        "html": {
+          "href": "https://bitbucket.org/mailchimp/mandrill-api-php"
+        },
+        "avatar": {
+          "href": "https://bytebucket.org/ravatar/%7B19f1619f-eb24-4b89-ad87-3912c63b3f3d%7D?ts=php"
+        },
+        "pullrequests": {
+          "href": "https://api.bitbucket.org/2.0/repositories/mailchimp/mandrill-api-php/pullrequests"
+        },
+        "commits": {
+          "href": "https://api.bitbucket.org/2.0/repositories/mailchimp/mandrill-api-php/commits"
+        },
+        "forks": {
+          "href": "https://api.bitbucket.org/2.0/repositories/mailchimp/mandrill-api-php/forks"
+        },
+        "watchers": {
+          "href": "https://api.bitbucket.org/2.0/repositories/mailchimp/mandrill-api-php/watchers"
+        },
+        "branches": {
+          "href": "https://api.bitbucket.org/2.0/repositories/mailchimp/mandrill-api-php/refs/branches"
+        },
+        "tags": {
+          "href": "https://api.bitbucket.org/2.0/repositories/mailchimp/mandrill-api-php/refs/tags"
+        },
+        "downloads": {
+          "href": "https://api.bitbucket.org/2.0/repositories/mailchimp/mandrill-api-php/downloads"
+        },
+        "source": {
+          "href": "https://api.bitbucket.org/2.0/repositories/mailchimp/mandrill-api-php/src"
+        },
+        "clone": [
+          {
+            "name": "https",
+            "href": "https://bitbucket.org/mailchimp/mandrill-api-php.git"
+          },
+          {
+            "name": "ssh",
+            "href": "git@bitbucket.org:mailchimp/mandrill-api-php.git"
+          }
+        ],
+        "hooks": {
+          "href": "https://api.bitbucket.org/2.0/repositories/mailchimp/mandrill-api-php/hooks"
+        }
+      },
+      "name": "mandrill-api-php",
+      "slug": "mandrill-api-php",
+      "description": "DEPRECATED. You can find the current Transactional SDKs at https://mailchimp.com/developer/tools/ - A PHP 5.2+ compatible API client for the Mandrill email as a service platform.",
+      "scm": "git",
+      "website": "http://mandrillapp.com/api/docs/",
+      "owner": {
+        "display_name": "Frederick Von Chimpenheimer IV",
+        "links": {
+          "self": {
+            "href": "https://api.bitbucket.org/2.0/workspaces/%7Be450f9c5-dea4-4858-ac25-9b1a205cbfba%7D"
+          },
+          "avatar": {
+            "href": "https://bitbucket.org/account/mailchimp/avatar/"
+          },
+          "html": {
+            "href": "https://bitbucket.org/%7Be450f9c5-dea4-4858-ac25-9b1a205cbfba%7D/"
+          }
+        },
+        "type": "team",
+        "uuid": "{e450f9c5-dea4-4858-ac25-9b1a205cbfba}",
+        "username": "mailchimp"
+      },
+      "workspace": {
+        "type": "workspace",
+        "uuid": "{e450f9c5-dea4-4858-ac25-9b1a205cbfba}",
+        "name": "Frederick Von Chimpenheimer IV",
+        "slug": "mailchimp",
+        "links": {
+          "avatar": {
+            "href": "https://bitbucket.org/workspaces/mailchimp/avatar/?ts=1543457511"
+          },
+          "html": {
+            "href": "https://bitbucket.org/mailchimp/"
+          },
+          "self": {
+            "href": "https://api.bitbucket.org/2.0/workspaces/mailchimp"
+          }
+        }
+      },
+      "is_private": false,
+      "project": {
+        "type": "project",
+        "key": "PROJ",
+        "uuid": "{7e1cc7b9-e970-41f8-8a67-4bf4f79732ca}",
+        "name": "Untitled project",
+        "links": {
+          "self": {
+            "href": "https://api.bitbucket.org/2.0/workspaces/mailchimp/projects/PROJ"
+          },
+          "html": {
+            "href": "https://bitbucket.org/mailchimp/workspace/projects/PROJ"
+          },
+          "avatar": {
+            "href": "https://bitbucket.org/mailchimp/workspace/projects/PROJ/avatar/32?ts=1447442394"
+          }
+        }
+      },
+      "fork_policy": "allow_forks",
+      "created_on": "2012-07-18T16:24:21.740602+00:00",
+      "updated_on": "2021-03-31T18:38:02.739104+00:00",
+      "size": 2954204,
+      "language": "php",
+      "uuid": "{19f1619f-eb24-4b89-ad87-3912c63b3f3d}",
+      "mainbranch": {
+        "name": "master",
+        "type": "branch"
+      },
+      "override_settings": {
+        "default_merge_strategy": false,
+        "branching_model": false
+      },
+      "parent": null,
+      "enforced_signed_commits": null,
+      "has_issues": false,
+      "has_wiki": true
+    },
+    {
+      "type": "repository",
+      "full_name": "mailchimp/mandrill-api-python",
+      "links": {
+        "self": {
+          "href": "https://api.bitbucket.org/2.0/repositories/mailchimp/mandrill-api-python"
+        },
+        "html": {
+          "href": "https://bitbucket.org/mailchimp/mandrill-api-python"
+        },
+        "avatar": {
+          "href": "https://bytebucket.org/ravatar/%7B47f2ba1d-5d04-4715-82e7-8edbc08e1538%7D?ts=python"
+        },
+        "pullrequests": {
+          "href": "https://api.bitbucket.org/2.0/repositories/mailchimp/mandrill-api-python/pullrequests"
+        },
+        "commits": {
+          "href": "https://api.bitbucket.org/2.0/repositories/mailchimp/mandrill-api-python/commits"
+        },
+        "forks": {
+          "href": "https://api.bitbucket.org/2.0/repositories/mailchimp/mandrill-api-python/forks"
+        },
+        "watchers": {
+          "href": "https://api.bitbucket.org/2.0/repositories/mailchimp/mandrill-api-python/watchers"
+        },
+        "branches": {
+          "href": "https://api.bitbucket.org/2.0/repositories/mailchimp/mandrill-api-python/refs/branches"
+        },
+        "tags": {
+          "href": "https://api.bitbucket.org/2.0/repositories/mailchimp/mandrill-api-python/refs/tags"
+        },
+        "downloads": {
+          "href": "https://api.bitbucket.org/2.0/repositories/mailchimp/mandrill-api-python/downloads"
+        },
+        "source": {
+          "href": "https://api.bitbucket.org/2.0/repositories/mailchimp/mandrill-api-python/src"
+        },
+        "clone": [
+          {
+            "name": "https",
+            "href": "https://bitbucket.org/mailchimp/mandrill-api-python.git"
+          },
+          {
+            "name": "ssh",
+            "href": "git@bitbucket.org:mailchimp/mandrill-api-python.git"
+          }
+        ],
+        "hooks": {
+          "href": "https://api.bitbucket.org/2.0/repositories/mailchimp/mandrill-api-python/hooks"
+        }
+      },
+      "name": "mandrill-api-python",
+      "slug": "mandrill-api-python",
+      "description": "DEPRECATED. You can find the current Transactional SDKs at https://mailchimp.com/developer/tools/ - A Python 2.5+ compatible API client and CLI interface for the Mandrill email as a service product.",
+      "scm": "git",
+      "website": "http://mandrillapp.com/api/docs/",
+      "owner": {
+        "display_name": "Frederick Von Chimpenheimer IV",
+        "links": {
+          "self": {
+            "href": "https://api.bitbucket.org/2.0/workspaces/%7Be450f9c5-dea4-4858-ac25-9b1a205cbfba%7D"
+          },
+          "avatar": {
+            "href": "https://bitbucket.org/account/mailchimp/avatar/"
+          },
+          "html": {
+            "href": "https://bitbucket.org/%7Be450f9c5-dea4-4858-ac25-9b1a205cbfba%7D/"
+          }
+        },
+        "type": "team",
+        "uuid": "{e450f9c5-dea4-4858-ac25-9b1a205cbfba}",
+        "username": "mailchimp"
+      },
+      "workspace": {
+        "type": "workspace",
+        "uuid": "{e450f9c5-dea4-4858-ac25-9b1a205cbfba}",
+        "name": "Frederick Von Chimpenheimer IV",
+        "slug": "mailchimp",
+        "links": {
+          "avatar": {
+            "href": "https://bitbucket.org/workspaces/mailchimp/avatar/?ts=1543457511"
+          },
+          "html": {
+            "href": "https://bitbucket.org/mailchimp/"
+          },
+          "self": {
+            "href": "https://api.bitbucket.org/2.0/workspaces/mailchimp"
+          }
+        }
+      },
+      "is_private": false,
+      "project": {
+        "type": "project",
+        "key": "PROJ",
+        "uuid": "{7e1cc7b9-e970-41f8-8a67-4bf4f79732ca}",
+        "name": "Untitled project",
+        "links": {
+          "self": {
+            "href": "https://api.bitbucket.org/2.0/workspaces/mailchimp/projects/PROJ"
+          },
+          "html": {
+            "href": "https://bitbucket.org/mailchimp/workspace/projects/PROJ"
+          },
+          "avatar": {
+            "href": "https://bitbucket.org/mailchimp/workspace/projects/PROJ/avatar/32?ts=1447442394"
+          }
+        }
+      },
+      "fork_policy": "allow_forks",
+      "created_on": "2012-07-18T16:25:04.014768+00:00",
+      "updated_on": "2021-04-01T15:36:35.234027+00:00",
+      "size": 2359734,
+      "language": "python",
+      "uuid": "{47f2ba1d-5d04-4715-82e7-8edbc08e1538}",
+      "mainbranch": {
+        "name": "master",
+        "type": "branch"
+      },
+      "override_settings": {
+        "default_merge_strategy": false,
+        "branching_model": false
+      },
+      "parent": null,
+      "enforced_signed_commits": null,
+      "has_issues": false,
+      "has_wiki": true
+    },
+    {
+      "type": "repository",
+      "full_name": "mailchimp/mandrill-api-js",
+      "links": {
+        "self": {
+          "href": "https://api.bitbucket.org/2.0/repositories/mailchimp/mandrill-api-js"
+        },
+        "html": {
+          "href": "https://bitbucket.org/mailchimp/mandrill-api-js"
+        },
+        "avatar": {
+          "href": "https://bytebucket.org/ravatar/%7B06d16caa-4570-4f04-a54f-908c9c814197%7D?ts=js"
+        },
+        "pullrequests": {
+          "href": "https://api.bitbucket.org/2.0/repositories/mailchimp/mandrill-api-js/pullrequests"
+        },
+        "commits": {
+          "href": "https://api.bitbucket.org/2.0/repositories/mailchimp/mandrill-api-js/commits"
+        },
+        "forks": {
+          "href": "https://api.bitbucket.org/2.0/repositories/mailchimp/mandrill-api-js/forks"
+        },
+        "watchers": {
+          "href": "https://api.bitbucket.org/2.0/repositories/mailchimp/mandrill-api-js/watchers"
+        },
+        "branches": {
+          "href": "https://api.bitbucket.org/2.0/repositories/mailchimp/mandrill-api-js/refs/branches"
+        },
+        "tags": {
+          "href": "https://api.bitbucket.org/2.0/repositories/mailchimp/mandrill-api-js/refs/tags"
+        },
+        "downloads": {
+          "href": "https://api.bitbucket.org/2.0/repositories/mailchimp/mandrill-api-js/downloads"
+        },
+        "source": {
+          "href": "https://api.bitbucket.org/2.0/repositories/mailchimp/mandrill-api-js/src"
+        },
+        "clone": [
+          {
+            "name": "https",
+            "href": "https://bitbucket.org/mailchimp/mandrill-api-js.git"
+          },
+          {
+            "name": "ssh",
+            "href": "git@bitbucket.org:mailchimp/mandrill-api-js.git"
+          }
+        ],
+        "hooks": {
+          "href": "https://api.bitbucket.org/2.0/repositories/mailchimp/mandrill-api-js/hooks"
+        }
+      },
+      "name": "mandrill-api-js",
+      "slug": "mandrill-api-js",
+      "description": "DEPRECATED. You can find the current Transactional SDKs at https://mailchimp.com/developer/tools/ - An in-browser Ajax-based javascript client for the Mandrill email as a service product.",
+      "scm": "git",
+      "website": "http://mandrillapp.com/api/docs/",
+      "owner": {
+        "display_name": "Frederick Von Chimpenheimer IV",
+        "links": {
+          "self": {
+            "href": "https://api.bitbucket.org/2.0/workspaces/%7Be450f9c5-dea4-4858-ac25-9b1a205cbfba%7D"
+          },
+          "avatar": {
+            "href": "https://bitbucket.org/account/mailchimp/avatar/"
+          },
+          "html": {
+            "href": "https://bitbucket.org/%7Be450f9c5-dea4-4858-ac25-9b1a205cbfba%7D/"
+          }
+        },
+        "type": "team",
+        "uuid": "{e450f9c5-dea4-4858-ac25-9b1a205cbfba}",
+        "username": "mailchimp"
+      },
+      "workspace": {
+        "type": "workspace",
+        "uuid": "{e450f9c5-dea4-4858-ac25-9b1a205cbfba}",
+        "name": "Frederick Von Chimpenheimer IV",
+        "slug": "mailchimp",
+        "links": {
+          "avatar": {
+            "href": "https://bitbucket.org/workspaces/mailchimp/avatar/?ts=1543457511"
+          },
+          "html": {
+            "href": "https://bitbucket.org/mailchimp/"
+          },
+          "self": {
+            "href": "https://api.bitbucket.org/2.0/workspaces/mailchimp"
+          }
+        }
+      },
+      "is_private": false,
+      "project": {
+        "type": "project",
+        "key": "PROJ",
+        "uuid": "{7e1cc7b9-e970-41f8-8a67-4bf4f79732ca}",
+        "name": "Untitled project",
+        "links": {
+          "self": {
+            "href": "https://api.bitbucket.org/2.0/workspaces/mailchimp/projects/PROJ"
+          },
+          "html": {
+            "href": "https://bitbucket.org/mailchimp/workspace/projects/PROJ"
+          },
+          "avatar": {
+            "href": "https://bitbucket.org/mailchimp/workspace/projects/PROJ/avatar/32?ts=1447442394"
+          }
+        }
+      },
+      "fork_policy": "allow_forks",
+      "created_on": "2012-07-18T16:25:39.296756+00:00",
+      "updated_on": "2021-03-31T18:23:16.302675+00:00",
+      "size": 1773199,
+      "language": "javascript",
+      "uuid": "{06d16caa-4570-4f04-a54f-908c9c814197}",
+      "mainbranch": {
+        "name": "master",
+        "type": "branch"
+      },
+      "override_settings": {
+        "default_merge_strategy": false,
+        "branching_model": false
+      },
+      "parent": null,
+      "enforced_signed_commits": null,
+      "has_issues": false,
+      "has_wiki": true
+    },
+    {
+      "type": "repository",
+      "full_name": "mailchimp/mandrill-api-ruby",
+      "links": {
+        "self": {
+          "href": "https://api.bitbucket.org/2.0/repositories/mailchimp/mandrill-api-ruby"
+        },
+        "html": {
+          "href": "https://bitbucket.org/mailchimp/mandrill-api-ruby"
+        },
+        "avatar": {
+          "href": "https://bytebucket.org/ravatar/%7B6e0aec30-10ef-449d-afa6-668fb6ee3af6%7D?ts=ruby"
+        },
+        "pullrequests": {
+          "href": "https://api.bitbucket.org/2.0/repositories/mailchimp/mandrill-api-ruby/pullrequests"
+        },
+        "commits": {
+          "href": "https://api.bitbucket.org/2.0/repositories/mailchimp/mandrill-api-ruby/commits"
+        },
+        "forks": {
+          "href": "https://api.bitbucket.org/2.0/repositories/mailchimp/mandrill-api-ruby/forks"
+        },
+        "watchers": {
+          "href": "https://api.bitbucket.org/2.0/repositories/mailchimp/mandrill-api-ruby/watchers"
+        },
+        "branches": {
+          "href": "https://api.bitbucket.org/2.0/repositories/mailchimp/mandrill-api-ruby/refs/branches"
+        },
+        "tags": {
+          "href": "https://api.bitbucket.org/2.0/repositories/mailchimp/mandrill-api-ruby/refs/tags"
+        },
+        "downloads": {
+          "href": "https://api.bitbucket.org/2.0/repositories/mailchimp/mandrill-api-ruby/downloads"
+        },
+        "source": {
+          "href": "https://api.bitbucket.org/2.0/repositories/mailchimp/mandrill-api-ruby/src"
+        },
+        "clone": [
+          {
+            "name": "https",
+            "href": "https://bitbucket.org/mailchimp/mandrill-api-ruby.git"
+          },
+          {
+            "name": "ssh",
+            "href": "git@bitbucket.org:mailchimp/mandrill-api-ruby.git"
+          }
+        ],
+        "hooks": {
+          "href": "https://api.bitbucket.org/2.0/repositories/mailchimp/mandrill-api-ruby/hooks"
+        }
+      },
+      "name": "mandrill-api-ruby",
+      "slug": "mandrill-api-ruby",
+      "description": "DEPRECATED. You can find the current Transactional SDKs at https://mailchimp.com/developer/tools/ - A Ruby API client for the Mandrill email as a service product",
+      "scm": "git",
+      "website": "https://mandrillapp.com/api/docs/",
+      "owner": {
+        "display_name": "Frederick Von Chimpenheimer IV",
+        "links": {
+          "self": {
+            "href": "https://api.bitbucket.org/2.0/workspaces/%7Be450f9c5-dea4-4858-ac25-9b1a205cbfba%7D"
+          },
+          "avatar": {
+            "href": "https://bitbucket.org/account/mailchimp/avatar/"
+          },
+          "html": {
+            "href": "https://bitbucket.org/%7Be450f9c5-dea4-4858-ac25-9b1a205cbfba%7D/"
+          }
+        },
+        "type": "team",
+        "uuid": "{e450f9c5-dea4-4858-ac25-9b1a205cbfba}",
+        "username": "mailchimp"
+      },
+      "workspace": {
+        "type": "workspace",
+        "uuid": "{e450f9c5-dea4-4858-ac25-9b1a205cbfba}",
+        "name": "Frederick Von Chimpenheimer IV",
+        "slug": "mailchimp",
+        "links": {
+          "avatar": {
+            "href": "https://bitbucket.org/workspaces/mailchimp/avatar/?ts=1543457511"
+          },
+          "html": {
+            "href": "https://bitbucket.org/mailchimp/"
+          },
+          "self": {
+            "href": "https://api.bitbucket.org/2.0/workspaces/mailchimp"
+          }
+        }
+      },
+      "is_private": false,
+      "project": {
+        "type": "project",
+        "key": "PROJ",
+        "uuid": "{7e1cc7b9-e970-41f8-8a67-4bf4f79732ca}",
+        "name": "Untitled project",
+        "links": {
+          "self": {
+            "href": "https://api.bitbucket.org/2.0/workspaces/mailchimp/projects/PROJ"
+          },
+          "html": {
+            "href": "https://bitbucket.org/mailchimp/workspace/projects/PROJ"
+          },
+          "avatar": {
+            "href": "https://bitbucket.org/mailchimp/workspace/projects/PROJ/avatar/32?ts=1447442394"
+          }
+        }
+      },
+      "fork_policy": "allow_forks",
+      "created_on": "2012-07-30T17:29:29.827938+00:00",
+      "updated_on": "2022-09-02T09:43:17.952123+00:00",
+      "size": 1896029,
+      "language": "ruby",
+      "uuid": "{6e0aec30-10ef-449d-afa6-668fb6ee3af6}",
+      "mainbranch": {
+        "name": "master",
+        "type": "branch"
+      },
+      "override_settings": {
+        "default_merge_strategy": false,
+        "branching_model": false
+      },
+      "parent": null,
+      "enforced_signed_commits": null,
+      "has_issues": false,
+      "has_wiki": true
+    },
+    {
+      "type": "repository",
+      "full_name": "mailchimp/mandrill-api-node",
+      "links": {
+        "self": {
+          "href": "https://api.bitbucket.org/2.0/repositories/mailchimp/mandrill-api-node"
+        },
+        "html": {
+          "href": "https://bitbucket.org/mailchimp/mandrill-api-node"
+        },
+        "avatar": {
+          "href": "https://bytebucket.org/ravatar/%7Bce74c34d-e4f3-4d7e-834e-a4efa499daf7%7D?ts=js"
+        },
+        "pullrequests": {
+          "href": "https://api.bitbucket.org/2.0/repositories/mailchimp/mandrill-api-node/pullrequests"
+        },
+        "commits": {
+          "href": "https://api.bitbucket.org/2.0/repositories/mailchimp/mandrill-api-node/commits"
+        },
+        "forks": {
+          "href": "https://api.bitbucket.org/2.0/repositories/mailchimp/mandrill-api-node/forks"
+        },
+        "watchers": {
+          "href": "https://api.bitbucket.org/2.0/repositories/mailchimp/mandrill-api-node/watchers"
+        },
+        "branches": {
+          "href": "https://api.bitbucket.org/2.0/repositories/mailchimp/mandrill-api-node/refs/branches"
+        },
+        "tags": {
+          "href": "https://api.bitbucket.org/2.0/repositories/mailchimp/mandrill-api-node/refs/tags"
+        },
+        "downloads": {
+          "href": "https://api.bitbucket.org/2.0/repositories/mailchimp/mandrill-api-node/downloads"
+        },
+        "source": {
+          "href": "https://api.bitbucket.org/2.0/repositories/mailchimp/mandrill-api-node/src"
+        },
+        "clone": [
+          {
+            "name": "https",
+            "href": "https://bitbucket.org/mailchimp/mandrill-api-node.git"
+          },
+          {
+            "name": "ssh",
+            "href": "git@bitbucket.org:mailchimp/mandrill-api-node.git"
+          }
+        ],
+        "hooks": {
+          "href": "https://api.bitbucket.org/2.0/repositories/mailchimp/mandrill-api-node/hooks"
+        }
+      },
+      "name": "mandrill-api-node",
+      "slug": "mandrill-api-node",
+      "description": "DEPRECATED. You can find the current Transactional SDKs at https://mailchimp.com/developer/tools/ - A NodeJS API client for the Mandrill email as a service platform",
+      "scm": "git",
+      "website": "https://mandrillapp.com/api/docs/index.nodejs.html",
+      "owner": {
+        "display_name": "Frederick Von Chimpenheimer IV",
+        "links": {
+          "self": {
+            "href": "https://api.bitbucket.org/2.0/workspaces/%7Be450f9c5-dea4-4858-ac25-9b1a205cbfba%7D"
+          },
+          "avatar": {
+            "href": "https://bitbucket.org/account/mailchimp/avatar/"
+          },
+          "html": {
+            "href": "https://bitbucket.org/%7Be450f9c5-dea4-4858-ac25-9b1a205cbfba%7D/"
+          }
+        },
+        "type": "team",
+        "uuid": "{e450f9c5-dea4-4858-ac25-9b1a205cbfba}",
+        "username": "mailchimp"
+      },
+      "workspace": {
+        "type": "workspace",
+        "uuid": "{e450f9c5-dea4-4858-ac25-9b1a205cbfba}",
+        "name": "Frederick Von Chimpenheimer IV",
+        "slug": "mailchimp",
+        "links": {
+          "avatar": {
+            "href": "https://bitbucket.org/workspaces/mailchimp/avatar/?ts=1543457511"
+          },
+          "html": {
+            "href": "https://bitbucket.org/mailchimp/"
+          },
+          "self": {
+            "href": "https://api.bitbucket.org/2.0/workspaces/mailchimp"
+          }
+        }
+      },
+      "is_private": false,
+      "project": {
+        "type": "project",
+        "key": "PROJ",
+        "uuid": "{7e1cc7b9-e970-41f8-8a67-4bf4f79732ca}",
+        "name": "Untitled project",
+        "links": {
+          "self": {
+            "href": "https://api.bitbucket.org/2.0/workspaces/mailchimp/projects/PROJ"
+          },
+          "html": {
+            "href": "https://bitbucket.org/mailchimp/workspace/projects/PROJ"
+          },
+          "avatar": {
+            "href": "https://bitbucket.org/mailchimp/workspace/projects/PROJ/avatar/32?ts=1447442394"
+          }
+        }
+      },
+      "fork_policy": "allow_forks",
+      "created_on": "2015-09-23T02:26:01.342846+00:00",
+      "updated_on": "2021-03-31T18:22:39.318909+00:00",
+      "size": 1871529,
+      "language": "javascript",
+      "uuid": "{ce74c34d-e4f3-4d7e-834e-a4efa499daf7}",
+      "mainbranch": {
+        "name": "master",
+        "type": "branch"
+      },
+      "override_settings": {
+        "default_merge_strategy": false,
+        "branching_model": false
+      },
+      "parent": null,
+      "enforced_signed_commits": null,
+      "has_issues": false,
+      "has_wiki": true
+    },
+    {
+      "type": "repository",
+      "full_name": "mailchimp/mailchimp-api-node",
+      "links": {
+        "self": {
+          "href": "https://api.bitbucket.org/2.0/repositories/mailchimp/mailchimp-api-node"
+        },
+        "html": {
+          "href": "https://bitbucket.org/mailchimp/mailchimp-api-node"
+        },
+        "avatar": {
+          "href": "https://bytebucket.org/ravatar/%7B1b4d144d-ced9-4c9b-9c5c-4c90baee3c5a%7D?ts=js"
+        },
+        "pullrequests": {
+          "href": "https://api.bitbucket.org/2.0/repositories/mailchimp/mailchimp-api-node/pullrequests"
+        },
+        "commits": {
+          "href": "https://api.bitbucket.org/2.0/repositories/mailchimp/mailchimp-api-node/commits"
+        },
+        "forks": {
+          "href": "https://api.bitbucket.org/2.0/repositories/mailchimp/mailchimp-api-node/forks"
+        },
+        "watchers": {
+          "href": "https://api.bitbucket.org/2.0/repositories/mailchimp/mailchimp-api-node/watchers"
+        },
+        "branches": {
+          "href": "https://api.bitbucket.org/2.0/repositories/mailchimp/mailchimp-api-node/refs/branches"
+        },
+        "tags": {
+          "href": "https://api.bitbucket.org/2.0/repositories/mailchimp/mailchimp-api-node/refs/tags"
+        },
+        "downloads": {
+          "href": "https://api.bitbucket.org/2.0/repositories/mailchimp/mailchimp-api-node/downloads"
+        },
+        "source": {
+          "href": "https://api.bitbucket.org/2.0/repositories/mailchimp/mailchimp-api-node/src"
+        },
+        "clone": [
+          {
+            "name": "https",
+            "href": "https://bitbucket.org/mailchimp/mailchimp-api-node.git"
+          },
+          {
+            "name": "ssh",
+            "href": "git@bitbucket.org:mailchimp/mailchimp-api-node.git"
+          }
+        ],
+        "hooks": {
+          "href": "https://api.bitbucket.org/2.0/repositories/mailchimp/mailchimp-api-node/hooks"
+        }
+      },
+      "name": "mailchimp-api-node",
+      "slug": "mailchimp-api-node",
+      "description": "DEPRECATED. You can find the current Marketing SDKs at https://mailchimp.com/developer/tools/ - A NodeJS API client for API v2 of MailChimp's email service",
+      "scm": "git",
+      "website": "http://apidocs.mailchimp.com/api/2.0/",
+      "owner": {
+        "display_name": "Frederick Von Chimpenheimer IV",
+        "links": {
+          "self": {
+            "href": "https://api.bitbucket.org/2.0/workspaces/%7Be450f9c5-dea4-4858-ac25-9b1a205cbfba%7D"
+          },
+          "avatar": {
+            "href": "https://bitbucket.org/account/mailchimp/avatar/"
+          },
+          "html": {
+            "href": "https://bitbucket.org/%7Be450f9c5-dea4-4858-ac25-9b1a205cbfba%7D/"
+          }
+        },
+        "type": "team",
+        "uuid": "{e450f9c5-dea4-4858-ac25-9b1a205cbfba}",
+        "username": "mailchimp"
+      },
+      "workspace": {
+        "type": "workspace",
+        "uuid": "{e450f9c5-dea4-4858-ac25-9b1a205cbfba}",
+        "name": "Frederick Von Chimpenheimer IV",
+        "slug": "mailchimp",
+        "links": {
+          "avatar": {
+            "href": "https://bitbucket.org/workspaces/mailchimp/avatar/?ts=1543457511"
+          },
+          "html": {
+            "href": "https://bitbucket.org/mailchimp/"
+          },
+          "self": {
+            "href": "https://api.bitbucket.org/2.0/workspaces/mailchimp"
+          }
+        }
+      },
+      "is_private": false,
+      "project": {
+        "type": "project",
+        "key": "PROJ",
+        "uuid": "{7e1cc7b9-e970-41f8-8a67-4bf4f79732ca}",
+        "name": "Untitled project",
+        "links": {
+          "self": {
+            "href": "https://api.bitbucket.org/2.0/workspaces/mailchimp/projects/PROJ"
+          },
+          "html": {
+            "href": "https://bitbucket.org/mailchimp/workspace/projects/PROJ"
+          },
+          "avatar": {
+            "href": "https://bitbucket.org/mailchimp/workspace/projects/PROJ/avatar/32?ts=1447442394"
+          }
+        }
+      },
+      "fork_policy": "allow_forks",
+      "created_on": "2013-07-23T15:44:51.187004+00:00",
+      "updated_on": "2021-03-31T18:22:10.079276+00:00",
+      "size": 680592,
+      "language": "javascript",
+      "uuid": "{1b4d144d-ced9-4c9b-9c5c-4c90baee3c5a}",
+      "mainbranch": {
+        "name": "master",
+        "type": "branch"
+      },
+      "override_settings": {
+        "default_merge_strategy": false,
+        "branching_model": false
+      },
+      "parent": null,
+      "enforced_signed_commits": null,
+      "has_issues": false,
+      "has_wiki": false
+    },
+    {
+      "type": "repository",
+      "full_name": "mailchimp/mailchimp-api-php",
+      "links": {
+        "self": {
+          "href": "https://api.bitbucket.org/2.0/repositories/mailchimp/mailchimp-api-php"
+        },
+        "html": {
+          "href": "https://bitbucket.org/mailchimp/mailchimp-api-php"
+        },
+        "avatar": {
+          "href": "https://bytebucket.org/ravatar/%7Bcd65384e-3854-4261-8db4-21adae2a3343%7D?ts=php"
+        },
+        "pullrequests": {
+          "href": "https://api.bitbucket.org/2.0/repositories/mailchimp/mailchimp-api-php/pullrequests"
+        },
+        "commits": {
+          "href": "https://api.bitbucket.org/2.0/repositories/mailchimp/mailchimp-api-php/commits"
+        },
+        "forks": {
+          "href": "https://api.bitbucket.org/2.0/repositories/mailchimp/mailchimp-api-php/forks"
+        },
+        "watchers": {
+          "href": "https://api.bitbucket.org/2.0/repositories/mailchimp/mailchimp-api-php/watchers"
+        },
+        "branches": {
+          "href": "https://api.bitbucket.org/2.0/repositories/mailchimp/mailchimp-api-php/refs/branches"
+        },
+        "tags": {
+          "href": "https://api.bitbucket.org/2.0/repositories/mailchimp/mailchimp-api-php/refs/tags"
+        },
+        "downloads": {
+          "href": "https://api.bitbucket.org/2.0/repositories/mailchimp/mailchimp-api-php/downloads"
+        },
+        "source": {
+          "href": "https://api.bitbucket.org/2.0/repositories/mailchimp/mailchimp-api-php/src"
+        },
+        "clone": [
+          {
+            "name": "https",
+            "href": "https://bitbucket.org/mailchimp/mailchimp-api-php.git"
+          },
+          {
+            "name": "ssh",
+            "href": "git@bitbucket.org:mailchimp/mailchimp-api-php.git"
+          }
+        ],
+        "hooks": {
+          "href": "https://api.bitbucket.org/2.0/repositories/mailchimp/mailchimp-api-php/hooks"
+        }
+      },
+      "name": "mailchimp-api-php",
+      "slug": "mailchimp-api-php",
+      "description": "DEPRECATED. You can find the current Marketing SDKs at https://mailchimp.com/developer/tools/ - A PHP 5.2+ compatible API client for the MailChimp email platform",
+      "scm": "git",
+      "website": "http://apidocs.mailchimp.com/api/2.0/",
+      "owner": {
+        "display_name": "Frederick Von Chimpenheimer IV",
+        "links": {
+          "self": {
+            "href": "https://api.bitbucket.org/2.0/workspaces/%7Be450f9c5-dea4-4858-ac25-9b1a205cbfba%7D"
+          },
+          "avatar": {
+            "href": "https://bitbucket.org/account/mailchimp/avatar/"
+          },
+          "html": {
+            "href": "https://bitbucket.org/%7Be450f9c5-dea4-4858-ac25-9b1a205cbfba%7D/"
+          }
+        },
+        "type": "team",
+        "uuid": "{e450f9c5-dea4-4858-ac25-9b1a205cbfba}",
+        "username": "mailchimp"
+      },
+      "workspace": {
+        "type": "workspace",
+        "uuid": "{e450f9c5-dea4-4858-ac25-9b1a205cbfba}",
+        "name": "Frederick Von Chimpenheimer IV",
+        "slug": "mailchimp",
+        "links": {
+          "avatar": {
+            "href": "https://bitbucket.org/workspaces/mailchimp/avatar/?ts=1543457511"
+          },
+          "html": {
+            "href": "https://bitbucket.org/mailchimp/"
+          },
+          "self": {
+            "href": "https://api.bitbucket.org/2.0/workspaces/mailchimp"
+          }
+        }
+      },
+      "is_private": false,
+      "project": {
+        "type": "project",
+        "key": "PROJ",
+        "uuid": "{7e1cc7b9-e970-41f8-8a67-4bf4f79732ca}",
+        "name": "Untitled project",
+        "links": {
+          "self": {
+            "href": "https://api.bitbucket.org/2.0/workspaces/mailchimp/projects/PROJ"
+          },
+          "html": {
+            "href": "https://bitbucket.org/mailchimp/workspace/projects/PROJ"
+          },
+          "avatar": {
+            "href": "https://bitbucket.org/mailchimp/workspace/projects/PROJ/avatar/32?ts=1447442394"
+          }
+        }
+      },
+      "fork_policy": "allow_forks",
+      "created_on": "2013-07-23T15:45:30.570868+00:00",
+      "updated_on": "2021-03-31T18:33:47.724519+00:00",
+      "size": 1982610,
+      "language": "php",
+      "uuid": "{cd65384e-3854-4261-8db4-21adae2a3343}",
+      "mainbranch": {
+        "name": "master",
+        "type": "branch"
+      },
+      "override_settings": {
+        "default_merge_strategy": false,
+        "branching_model": false
+      },
+      "parent": null,
+      "enforced_signed_commits": null,
+      "has_issues": false,
+      "has_wiki": false
+    },
+    {
+      "type": "repository",
+      "full_name": "mailchimp/mailchimp-api-python",
+      "links": {
+        "self": {
+          "href": "https://api.bitbucket.org/2.0/repositories/mailchimp/mailchimp-api-python"
+        },
+        "html": {
+          "href": "https://bitbucket.org/mailchimp/mailchimp-api-python"
+        },
+        "avatar": {
+          "href": "https://bytebucket.org/ravatar/%7B163752e5-ecf4-4473-a64d-43df2eab37ca%7D?ts=python"
+        },
+        "pullrequests": {
+          "href": "https://api.bitbucket.org/2.0/repositories/mailchimp/mailchimp-api-python/pullrequests"
+        },
+        "commits": {
+          "href": "https://api.bitbucket.org/2.0/repositories/mailchimp/mailchimp-api-python/commits"
+        },
+        "forks": {
+          "href": "https://api.bitbucket.org/2.0/repositories/mailchimp/mailchimp-api-python/forks"
+        },
+        "watchers": {
+          "href": "https://api.bitbucket.org/2.0/repositories/mailchimp/mailchimp-api-python/watchers"
+        },
+        "branches": {
+          "href": "https://api.bitbucket.org/2.0/repositories/mailchimp/mailchimp-api-python/refs/branches"
+        },
+        "tags": {
+          "href": "https://api.bitbucket.org/2.0/repositories/mailchimp/mailchimp-api-python/refs/tags"
+        },
+        "downloads": {
+          "href": "https://api.bitbucket.org/2.0/repositories/mailchimp/mailchimp-api-python/downloads"
+        },
+        "source": {
+          "href": "https://api.bitbucket.org/2.0/repositories/mailchimp/mailchimp-api-python/src"
+        },
+        "clone": [
+          {
+            "name": "https",
+            "href": "https://bitbucket.org/mailchimp/mailchimp-api-python.git"
+          },
+          {
+            "name": "ssh",
+            "href": "git@bitbucket.org:mailchimp/mailchimp-api-python.git"
+          }
+        ],
+        "hooks": {
+          "href": "https://api.bitbucket.org/2.0/repositories/mailchimp/mailchimp-api-python/hooks"
+        }
+      },
+      "name": "mailchimp-api-python",
+      "slug": "mailchimp-api-python",
+      "description": "DEPRECATED. You can find the current Marketing SDKs at https://mailchimp.com/developer/tools/ - A Python 2.5+ compatible API client for API v2 for MailChimp's email service",
+      "scm": "git",
+      "website": "http://apidocs.mailchimp.com/api/2.0/",
+      "owner": {
+        "display_name": "Frederick Von Chimpenheimer IV",
+        "links": {
+          "self": {
+            "href": "https://api.bitbucket.org/2.0/workspaces/%7Be450f9c5-dea4-4858-ac25-9b1a205cbfba%7D"
+          },
+          "avatar": {
+            "href": "https://bitbucket.org/account/mailchimp/avatar/"
+          },
+          "html": {
+            "href": "https://bitbucket.org/%7Be450f9c5-dea4-4858-ac25-9b1a205cbfba%7D/"
+          }
+        },
+        "type": "team",
+        "uuid": "{e450f9c5-dea4-4858-ac25-9b1a205cbfba}",
+        "username": "mailchimp"
+      },
+      "workspace": {
+        "type": "workspace",
+        "uuid": "{e450f9c5-dea4-4858-ac25-9b1a205cbfba}",
+        "name": "Frederick Von Chimpenheimer IV",
+        "slug": "mailchimp",
+        "links": {
+          "avatar": {
+            "href": "https://bitbucket.org/workspaces/mailchimp/avatar/?ts=1543457511"
+          },
+          "html": {
+            "href": "https://bitbucket.org/mailchimp/"
+          },
+          "self": {
+            "href": "https://api.bitbucket.org/2.0/workspaces/mailchimp"
+          }
+        }
+      },
+      "is_private": false,
+      "project": {
+        "type": "project",
+        "key": "PROJ",
+        "uuid": "{7e1cc7b9-e970-41f8-8a67-4bf4f79732ca}",
+        "name": "Untitled project",
+        "links": {
+          "self": {
+            "href": "https://api.bitbucket.org/2.0/workspaces/mailchimp/projects/PROJ"
+          },
+          "html": {
+            "href": "https://bitbucket.org/mailchimp/workspace/projects/PROJ"
+          },
+          "avatar": {
+            "href": "https://bitbucket.org/mailchimp/workspace/projects/PROJ/avatar/32?ts=1447442394"
+          }
+        }
+      },
+      "fork_policy": "allow_forks",
+      "created_on": "2013-07-23T15:45:45.575341+00:00",
+      "updated_on": "2021-04-01T15:26:18.259927+00:00",
+      "size": 1079551,
+      "language": "python",
+      "uuid": "{163752e5-ecf4-4473-a64d-43df2eab37ca}",
+      "mainbranch": {
+        "name": "master",
+        "type": "branch"
+      },
+      "override_settings": {
+        "default_merge_strategy": false,
+        "branching_model": false
+      },
+      "parent": null,
+      "enforced_signed_commits": null,
+      "has_issues": false,
+      "has_wiki": false
+    },
+    {
+      "type": "repository",
+      "full_name": "mailchimp/mailchimp-api-ruby",
+      "links": {
+        "self": {
+          "href": "https://api.bitbucket.org/2.0/repositories/mailchimp/mailchimp-api-ruby"
+        },
+        "html": {
+          "href": "https://bitbucket.org/mailchimp/mailchimp-api-ruby"
+        },
+        "avatar": {
+          "href": "https://bytebucket.org/ravatar/%7B0ed26f9e-0589-425a-8357-18d059a73db1%7D?ts=ruby"
+        },
+        "pullrequests": {
+          "href": "https://api.bitbucket.org/2.0/repositories/mailchimp/mailchimp-api-ruby/pullrequests"
+        },
+        "commits": {
+          "href": "https://api.bitbucket.org/2.0/repositories/mailchimp/mailchimp-api-ruby/commits"
+        },
+        "forks": {
+          "href": "https://api.bitbucket.org/2.0/repositories/mailchimp/mailchimp-api-ruby/forks"
+        },
+        "watchers": {
+          "href": "https://api.bitbucket.org/2.0/repositories/mailchimp/mailchimp-api-ruby/watchers"
+        },
+        "branches": {
+          "href": "https://api.bitbucket.org/2.0/repositories/mailchimp/mailchimp-api-ruby/refs/branches"
+        },
+        "tags": {
+          "href": "https://api.bitbucket.org/2.0/repositories/mailchimp/mailchimp-api-ruby/refs/tags"
+        },
+        "downloads": {
+          "href": "https://api.bitbucket.org/2.0/repositories/mailchimp/mailchimp-api-ruby/downloads"
+        },
+        "source": {
+          "href": "https://api.bitbucket.org/2.0/repositories/mailchimp/mailchimp-api-ruby/src"
+        },
+        "clone": [
+          {
+            "name": "https",
+            "href": "https://bitbucket.org/mailchimp/mailchimp-api-ruby.git"
+          },
+          {
+            "name": "ssh",
+            "href": "git@bitbucket.org:mailchimp/mailchimp-api-ruby.git"
+          }
+        ],
+        "hooks": {
+          "href": "https://api.bitbucket.org/2.0/repositories/mailchimp/mailchimp-api-ruby/hooks"
+        }
+      },
+      "name": "mailchimp-api-ruby",
+      "slug": "mailchimp-api-ruby",
+      "description": "DEPRECATED. You can find the current Marketing SDKs at https://mailchimp.com/developer/tools/ - A Ruby API client for API v2 of MailChimp's email service",
+      "scm": "git",
+      "website": "http://apidocs.mailchimp.com/api/2.0/",
+      "owner": {
+        "display_name": "Frederick Von Chimpenheimer IV",
+        "links": {
+          "self": {
+            "href": "https://api.bitbucket.org/2.0/workspaces/%7Be450f9c5-dea4-4858-ac25-9b1a205cbfba%7D"
+          },
+          "avatar": {
+            "href": "https://bitbucket.org/account/mailchimp/avatar/"
+          },
+          "html": {
+            "href": "https://bitbucket.org/%7Be450f9c5-dea4-4858-ac25-9b1a205cbfba%7D/"
+          }
+        },
+        "type": "team",
+        "uuid": "{e450f9c5-dea4-4858-ac25-9b1a205cbfba}",
+        "username": "mailchimp"
+      },
+      "workspace": {
+        "type": "workspace",
+        "uuid": "{e450f9c5-dea4-4858-ac25-9b1a205cbfba}",
+        "name": "Frederick Von Chimpenheimer IV",
+        "slug": "mailchimp",
+        "links": {
+          "avatar": {
+            "href": "https://bitbucket.org/workspaces/mailchimp/avatar/?ts=1543457511"
+          },
+          "html": {
+            "href": "https://bitbucket.org/mailchimp/"
+          },
+          "self": {
+            "href": "https://api.bitbucket.org/2.0/workspaces/mailchimp"
+          }
+        }
+      },
+      "is_private": false,
+      "project": {
+        "type": "project",
+        "key": "PROJ",
+        "uuid": "{7e1cc7b9-e970-41f8-8a67-4bf4f79732ca}",
+        "name": "Untitled project",
+        "links": {
+          "self": {
+            "href": "https://api.bitbucket.org/2.0/workspaces/mailchimp/projects/PROJ"
+          },
+          "html": {
+            "href": "https://bitbucket.org/mailchimp/workspace/projects/PROJ"
+          },
+          "avatar": {
+            "href": "https://bitbucket.org/mailchimp/workspace/projects/PROJ/avatar/32?ts=1447442394"
+          }
+        }
+      },
+      "fork_policy": "allow_forks",
+      "created_on": "2013-07-23T15:46:05.875041+00:00",
+      "updated_on": "2021-04-01T15:11:43.044013+00:00",
+      "size": 809299,
+      "language": "ruby",
+      "uuid": "{0ed26f9e-0589-425a-8357-18d059a73db1}",
+      "mainbranch": {
+        "name": "master",
+        "type": "branch"
+      },
+      "override_settings": {
+        "default_merge_strategy": false,
+        "branching_model": false
+      },
+      "parent": null,
+      "enforced_signed_commits": null,
+      "has_issues": false,
+      "has_wiki": false
+    },
+    {
+      "type": "repository",
+      "full_name": "mailchimp/mandrill-api-dart",
+      "links": {
+        "self": {
+          "href": "https://api.bitbucket.org/2.0/repositories/mailchimp/mandrill-api-dart"
+        },
+        "html": {
+          "href": "https://bitbucket.org/mailchimp/mandrill-api-dart"
+        },
+        "avatar": {
+          "href": "https://bytebucket.org/ravatar/%7Bea153489-cc03-4adf-ae24-307431af79ea%7D?ts=dart"
+        },
+        "pullrequests": {
+          "href": "https://api.bitbucket.org/2.0/repositories/mailchimp/mandrill-api-dart/pullrequests"
+        },
+        "commits": {
+          "href": "https://api.bitbucket.org/2.0/repositories/mailchimp/mandrill-api-dart/commits"
+        },
+        "forks": {
+          "href": "https://api.bitbucket.org/2.0/repositories/mailchimp/mandrill-api-dart/forks"
+        },
+        "watchers": {
+          "href": "https://api.bitbucket.org/2.0/repositories/mailchimp/mandrill-api-dart/watchers"
+        },
+        "branches": {
+          "href": "https://api.bitbucket.org/2.0/repositories/mailchimp/mandrill-api-dart/refs/branches"
+        },
+        "tags": {
+          "href": "https://api.bitbucket.org/2.0/repositories/mailchimp/mandrill-api-dart/refs/tags"
+        },
+        "downloads": {
+          "href": "https://api.bitbucket.org/2.0/repositories/mailchimp/mandrill-api-dart/downloads"
+        },
+        "source": {
+          "href": "https://api.bitbucket.org/2.0/repositories/mailchimp/mandrill-api-dart/src"
+        },
+        "clone": [
+          {
+            "name": "https",
+            "href": "https://bitbucket.org/mailchimp/mandrill-api-dart.git"
+          },
+          {
+            "name": "ssh",
+            "href": "git@bitbucket.org:mailchimp/mandrill-api-dart.git"
+          }
+        ],
+        "hooks": {
+          "href": "https://api.bitbucket.org/2.0/repositories/mailchimp/mandrill-api-dart/hooks"
+        }
+      },
+      "name": "mandrill-api-dart",
+      "slug": "mandrill-api-dart",
+      "description": "DEPRECATED. You can find the current Transactional SDKs at https://mailchimp.com/developer/tools/ - A server and browser-compatible API client for the Mandrill email as a service platform.",
+      "scm": "git",
+      "website": "https://mandrillapp.com/api/docs/index.dart.html",
+      "owner": {
+        "display_name": "Frederick Von Chimpenheimer IV",
+        "links": {
+          "self": {
+            "href": "https://api.bitbucket.org/2.0/workspaces/%7Be450f9c5-dea4-4858-ac25-9b1a205cbfba%7D"
+          },
+          "avatar": {
+            "href": "https://bitbucket.org/account/mailchimp/avatar/"
+          },
+          "html": {
+            "href": "https://bitbucket.org/%7Be450f9c5-dea4-4858-ac25-9b1a205cbfba%7D/"
+          }
+        },
+        "type": "team",
+        "uuid": "{e450f9c5-dea4-4858-ac25-9b1a205cbfba}",
+        "username": "mailchimp"
+      },
+      "workspace": {
+        "type": "workspace",
+        "uuid": "{e450f9c5-dea4-4858-ac25-9b1a205cbfba}",
+        "name": "Frederick Von Chimpenheimer IV",
+        "slug": "mailchimp",
+        "links": {
+          "avatar": {
+            "href": "https://bitbucket.org/workspaces/mailchimp/avatar/?ts=1543457511"
+          },
+          "html": {
+            "href": "https://bitbucket.org/mailchimp/"
+          },
+          "self": {
+            "href": "https://api.bitbucket.org/2.0/workspaces/mailchimp"
+          }
+        }
+      },
+      "is_private": false,
+      "project": {
+        "type": "project",
+        "key": "PROJ",
+        "uuid": "{7e1cc7b9-e970-41f8-8a67-4bf4f79732ca}",
+        "name": "Untitled project",
+        "links": {
+          "self": {
+            "href": "https://api.bitbucket.org/2.0/workspaces/mailchimp/projects/PROJ"
+          },
+          "html": {
+            "href": "https://bitbucket.org/mailchimp/workspace/projects/PROJ"
+          },
+          "avatar": {
+            "href": "https://bitbucket.org/mailchimp/workspace/projects/PROJ/avatar/32?ts=1447442394"
+          }
+        }
+      },
+      "fork_policy": "allow_forks",
+      "created_on": "2013-11-19T20:26:48.397334+00:00",
+      "updated_on": "2021-03-31T18:22:54.267510+00:00",
+      "size": 356522,
+      "language": "dart",
+      "uuid": "{ea153489-cc03-4adf-ae24-307431af79ea}",
+      "mainbranch": {
+        "name": "master",
+        "type": "branch"
+      },
+      "override_settings": {
+        "default_merge_strategy": false,
+        "branching_model": false
+      },
+      "parent": null,
+      "enforced_signed_commits": null,
+      "has_issues": false,
+      "has_wiki": false
+    }
+  ],
+  "pagelen": 10,
+  "size": 10,
+  "page": 1
+}
